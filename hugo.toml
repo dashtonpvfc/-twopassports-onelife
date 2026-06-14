@@ -1,0 +1,15 @@
+baseURL = "https://twopassportsonelife.co.uk/"
+languageCode = "en-gb"
+title = "Two Passports, One Life"
+
+[params]
+  tagline = "The world is big. We're working on it."
+  description = "A travel blog by a British couple exploring the world, one trip at a time."
+  author = "Danny & Mel"
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "destinations"

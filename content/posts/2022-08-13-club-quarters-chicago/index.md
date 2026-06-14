@@ -1,0 +1,35 @@
+---
+title: "Club Quarters Chicago"
+date: 2022-08-13
+tags: 
+  - "trumptower"
+  - "chicago"
+---
+
+Cracking location
+
+![](images/20220813_0256083622238303908097671.jpg)
+
+![](images/20220813_0256202745190632559804094.jpg)
+
+![](images/20220813_0554592983684929632918870.jpg)
+
+![](images/20220813_0554492441427639171356817.jpg)
+
+![](images/20220813_055525739204377821289560.jpg)
+
+![](images/20220813_0555072342549013136703287.jpg)
+
+![](images/20220813_0257066479449361453732625.jpg)
+
+<figure>
+
+![](images/20220813_0256277407755327825722091.jpg)
+
+<figcaption>
+
+Room with a view
+
+</figcaption>
+
+</figure>

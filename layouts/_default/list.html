@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container list-page">
+  <h1 class="list-title">{{ .Title }}</h1>
+  <div class="posts-grid">
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="post-card">
+      <a href="{{ .Permalink }}" class="post-card-img-link">
+        {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="post-card-img" loading="lazy">
+        {{ else }}
+        <div class="post-card-img post-card-img-placeholder">
+          <span>{{ with .Params.destination }}{{ . }}{{ else }}Travel{{ end }}</span>
+        </div>
+        {{ end }}
+      </a>
+      <div class="post-card-body">
+        {{ with .Params.destination }}<p class="post-card-destination">{{ . }}</p>{{ end }}
+        <h2 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="post-card-date">{{ .Date.Format "2 January 2006" }}</p>
+        <p class="post-card-summary">{{ .Summary | truncate 120 }}</p>
+        <a href="{{ .Permalink }}" class="post-card-link">Read more &rarr;</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
