@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container list-page">
+  <h1 class="list-title">{{ .Title }}</h1>
+  <div class="posts-grid">
+    {{ range .Data.Terms.Alphabetical }}
+    <a href="{{ .Page.Permalink }}" class="destination-card">
+      <div class="destination-card-inner">
+        <h2 class="destination-name">{{ .Page.Title }}</h2>
+        <p class="destination-count">{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
