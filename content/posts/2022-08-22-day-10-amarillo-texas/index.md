@@ -1,6 +1,6 @@
 ---
 title: "Day 10 - Amarillo, Texas"
-date: 2022-08-22
+destination: "USA 2022"-08-22
 ---
 
 Weather shocking for the 4h30m drive to Amarillo. Our first step onto Route 66 though! Starting in El Reno and picking up and dropping off various sections, unfortunately all attractions were closed, just our luck - a) due to the weather and b) they all shut Sunday d'oh. We had a good nosey around them however. On attraction that was open however was in the town of Erick, OK. The Sandhill Curiosity shop provided us with enough entertainment to last a lifetime! Harley is the greatest character and lived here with his wife from the 80's , his wife passed but he carries on the tradition. He was drinking JD, smoking weed and serenading the ladies. Amazing place and experience- see the vid below. Met a lovely Spanish couple who we later met up with in the Steakhouse. Went to Bug Ranch after for 5 minutes

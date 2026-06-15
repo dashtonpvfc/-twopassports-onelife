@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Day 1"
-date: 2024-11-26
+destination: "Thailand 2024"1-26
 ---
 
 Started the trip with a cancelled train from Manchester to the airport due to snow naturally, managed to grab the next one. Emirates A380 was everything we had hoped for, an engineering marvel, about an hour delay for the initial flight to Dubai, then the second flight was an hour and a half delay sat on the runway while they had to kick a no show's luggage off then missed the slot. 3:50am departure turned into gone 5:30am and we were knackered. Arrived Bangkok about 2:30pm...talk about an attack on the senses! We had been up for about 30 hrs now and needed to change all of our cash / buy E-sims and work out the Bolt app so needed to be on the ball. All went OK in the end after a few dramas. Hour taxi to the hotel. Dropped the bags off (backpack each) and went for a drink at a local bar. First pint of Chang, wonderful! Headed to a lovely rooftop bar for a pint and Mai Tai cocktail and some food. I had a Pad Thai - classic and Mel had Chicken cashew and rice, both were lovely. Bill was 1600 Baht..around £36...a bit steep but quite a posh place. Headed to bed about 9pm as we were both a bit delirious...woke about 10am.

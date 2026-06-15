@@ -1,6 +1,6 @@
 ---
 title: "Chiang Mai day 3"
-date: 2024-11-29
+destination: "Thailand 2024"1-29
 ---
 
 Woke about 9ish after a good 12 hours sleep ready for elephant day! Walked the 1 km to the office grabbing a 711 coffee on the way. Checked in and we were on our way for the 1 hr 30 journey to the jungle. Luxurious air conditioned leather reclining seats made it a very comfortable journey. We started off with a visit to a local waterfall where you can sometimes swim - but not today as the level of the river was too great. Great for photo's though. Then on to the Elephant sanctuary. Great experience throughout - the guides were fantastic and spoke great English and the elephants were majestic. They literally eat non stop for 20 hours a sleep 4 hours from midnight to 4am. Incredible creatures. We bathed them and fed them and had a lovely masamaan curry and rice included for us. The whole day was superb and an unbelievable experience. The whole days trip was exceptional and was £30 all in. Crazy. Home about 5am, had a cider each in a lovely chilled bar next door to the hotel before getting ready and visiting a few live music bars....from the sublime to thw ridiculous shall we say. Oasis tribute bands to utterly awful karaoke. A couple of night caps on the way home along with a foot long sausage for me and a grilled  chicken for Mel. Another tremendous day!

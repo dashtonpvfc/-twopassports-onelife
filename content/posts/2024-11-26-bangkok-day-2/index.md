@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Day 2"
-date: 2024-11-26
+destination: "Thailand 2024"1-26
 ---
 
 Up about 10:30am fresh as a daisy....walked a short distance to Latte Bua for coffee and breakfast. I tried 2 new foods today, mango and passion fruit - so culinary diverse now. This along with a cheese omelette and Mel had eggs. We then did a full-on Temple day starting with The Grand Palace which was incredible if a little steep at 500 Baht each, then moving on to Wat Phra which again was a stunning visual spectacle....300 baht each. We were all templed out by tea time so wandered back the 3km and stumbled into a lovely bar "Moonshine" for a couple of Changs. Hit the World famous Khao San Road at night....full on isn't the word! Deafening music all throughout, great atmosphere and a funny night overall....ate some noodles somewhere on the way home (I only know because I have the photos) and then must have brought another meal back as it was all over the worktop and the floor in the room....room is reminiscent of The Hangover. I also snapped the door lock off.

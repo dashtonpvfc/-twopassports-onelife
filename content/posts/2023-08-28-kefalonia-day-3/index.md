@@ -1,6 +1,6 @@
 ---
 title: "Kefalonia - Day 3"
-date: 2023-08-28
+destination: "Kefalonia 2023"-08-28
 ---
 
 Another lie in, no concept of time with the shutters closed, woke about 10am and wandered into Skala Town, had a spinach pie, grabbed some water and hit the beach. Towel down, and straight in the sea for a couple of hours, so warm, clear and still. Went to Milos beach bar for a couple of Mythos and then another hour on the beach reading and swimming. Headed to Veto bar for the Bournemouth Spurs match and had a Chicken Gyros and a few pints...about €4.5 for a pint and €3.5 for the Gyros. Headed back to the room for quick pit(a) stop then out to My Way bar for a quick one and then on to Veto (again) for the final match of the day - Brighton vs West Ham....had the biggest pizza I have ever seen (16 euros for the Diavalo with hot sauce). Rolled to bed about 22:15.

@@ -1,6 +1,6 @@
 ---
 title: "Day 12 pm"
-date: 2022-08-26
+destination: "USA 2022"-08-26
 ---
 
 Headed into Winslow and the La Pasada Hotel, a masterpiece of architecture designed by the famed Mary Jane Colter in 1929. A stunning hotel. Stopped at the 'Standin' on the Corner' as immortalised in The Eagles song "Take it Easy". Winslow was lovely, the people were the friendliest. We had a drink in The Turquiose room at the hotel and headed to RelicRoad brewery for a few pints and a meal- I had Relic Philly Cheesesteak and Mel had loaded fries...divine. Bed for 10pm knackered. Room 150 dollars, food and drinks about $80

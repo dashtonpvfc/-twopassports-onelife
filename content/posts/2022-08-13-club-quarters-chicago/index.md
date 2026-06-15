@@ -1,6 +1,6 @@
 ---
 title: "Club Quarters Chicago"
-date: 2022-08-13
+destination: "USA 2022"-08-13
 tags: 
   - "trumptower"
   - "chicago"

@@ -1,6 +1,6 @@
 ---
 title: "Day 7 AM - Memphis"
-date: 2022-08-19
+destination: "USA 2022"-08-19
 ---
 
 Sun Studio - Incredible to see what is to many, the home of Rock 'n' Roll...the tour was incredible, you could feel the presence of the greats who performed here and also to use the microphone that Elvis himself used was a once in a lifetime experience. The tour guide was brilliant and well worth the 18 dollars entry fee.

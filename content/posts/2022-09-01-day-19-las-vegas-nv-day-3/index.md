@@ -1,6 +1,6 @@
 ---
 title: "Day 19 - Las Vegas, NV Day 3"
-date: 2022-09-01
+destination: "USA 2022"-09-01
 tags: 
   - "flamingos"
   - "lasvegas"

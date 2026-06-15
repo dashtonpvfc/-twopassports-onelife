@@ -1,6 +1,6 @@
 ---
 title: "Kefalonia - Day 8"
-date: 2023-09-03
+destination: "Kefalonia 2023"-09-03
 ---
 
 Boat trip day to the island of Ithaka. Early start for 8:30 departure from Skala. Captain Vangelis cruises which costs 50 euros each. Quick stop at Poros port to pick up passengers then sailed on a northeasterly path. A quick swim stop next to a lovely secluded beach to shake off my 2 day hangover. Then to the capital of Ithaka, Vathi which is absolutely stunning. Hunger back with a vengeance now so had a seafood spaghetti with chips and bread for lunch, Mel had stuffed tomatoes and rice. Had a wander through the tiny streets and back on the boat. Set sail for Kiovi which is probably even more stunning if slightly smaller than Vathi. The sea here is sparkling crystal clear. Billionaire yacht owners present with their 200 million dollar playthings aplenty. Had a beer at a rooftop bar and a nice walk then back on the boat for a 30 min trip to the next swim stop - "little Myrtos beach". Made a stone momument on the beach for posterity. Then back to shore. Quick pint on the way back, shower and out to restaurant "Remvi". Had a beautiful Lamb Kleftiko and Mel had spagetti Carbonara with garlic bread. Both were divine. Back and home and in bed by 22:30 shattered.

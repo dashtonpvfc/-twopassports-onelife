@@ -1,6 +1,6 @@
 ---
 title: "Day 3 10:30 Chicago Greeter"
-date: 2022-08-14
+destination: "USA 2022"-08-14
 ---
 
 Met with our greeter for a 3 hour walk and talk around all things Chicago, fascinating insight into the architecture and culture of the city through the eyes of a local.

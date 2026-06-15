@@ -1,6 +1,6 @@
 ---
 title: "Phi Phi Islands day 2"
-date: 2024-12-12
+destination: "Thailand 2024"2-12
 ---
 
 Up at 9:30 for the 10:30 7 island tour via long tail boat. Chaotic scenes at the port where chaos reigned - someone we were all headed onto a longtail boat like cattle. I think there were about 16 of us, most of them medical students we found out later. The trip started with a very long (too long) journey to Bamboo Island, which had a 400 Baht each entry fee. Much too steep. Pretty though. Then, on to Monkey Island, this beach is absolutely stunning! Monkeys all over, they steal anything and everything the little scamps! We saw them opening a woman's hand bag much to our amusement. After this we moved onto Ko Phi Phi Lee for some snorkeling and then the star of the show Maya Bay - home of The Beach movie. Tourists were thronged everywhere, you have a max of 1 hour, and you aren't allowed to swim as tourists were trashing the place. Stunningly beautiful, however. We then did some more snorkelling around the outer perimeter of Maya Bay! I saw a huge shark! Couldn't believe what I was seeing! Didn't know whether to swim off or carry on watching... such graceful creatures, about 5 other people saw it after....what an experience! The water and colours of the fish were something else. The sunset on the way back was something else. Arrived back about 7pm, Mel was shattered so stayed in and I went for a couple of beers and a Pad Thai at the local place down the road as it is gorgeous there (and costs about £2). Was in bed for 10pm after a longggggg day.

@@ -1,6 +1,6 @@
 ---
 title: "Day 2"
-date: 2022-08-04
+destination: "USA 2022"-08-04
 ---
 
 Kuka Training

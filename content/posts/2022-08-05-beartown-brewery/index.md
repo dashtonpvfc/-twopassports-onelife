@@ -1,6 +1,6 @@
 ---
 title: "Beartown Brewery"
-date: 2022-08-05
+destination: "USA 2022"-08-05
 ---
 
 Lovely pint
