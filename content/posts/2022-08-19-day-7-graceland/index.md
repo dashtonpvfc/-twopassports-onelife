@@ -1,6 +1,7 @@
 ---
 title: "Day 7 - Graceland"
-date: 2022-08-19`ndestination: "USA 2022"
+date: 2022-08-19
+destination: "USA 2022"
 ---
 
 Wow wow wow. What a day. Amazing all round, to walk around the home of The King was off the scale. To see where he hung out with his friends and family and how it is still untouched since his passing is remarkable. To see his grave and his collection of cars and planes was surreal. You could spend days here with the museum as well. We had a "Vernon's" lunch at 40 dollars for what amounted to school dinner but hey ho. Entry fee $150 and worth every dime.
@@ -144,6 +145,7 @@ Wow wow wow. What a day. Amazing all round, to walk around the home of The King 
 ![](images/20220818_1555524329487309232611292.jpg)
 
 ![](images/20220818_1600034851758460256694591.jpg)
+
 
 
 

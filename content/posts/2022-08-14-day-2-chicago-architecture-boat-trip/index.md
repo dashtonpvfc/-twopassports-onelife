@@ -1,6 +1,7 @@
 ---
 title: "Day 2 Chicago Architecture Boat Trip"
-date: 2022-08-14`ndestination: "USA 2022"
+date: 2022-08-14
+destination: "USA 2022"
 ---
 
 Brilliant experience having a guided tour explain Chicago's famous buildings and skyscrapers in detail, 70 dollars plus 30 dollars for drinks ( I even brought a random American a 10 dollar Goose Island by accident ). 100 dollars total.
@@ -72,6 +73,7 @@ Brilliant experience having a guided tour explain Chicago's famous buildings and
 ![](images/20220813_1233085738911797524388847.jpg)
 
 ![](images/20220813_1234481537532778103421650.jpg)
+
 
 
 

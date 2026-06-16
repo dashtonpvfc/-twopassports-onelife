@@ -1,6 +1,7 @@
 ---
 title: "Day 2"
-date: 2022-08-04`ndestination: "USA 2022"
+date: 2022-08-04
+destination: "USA 2022"
 ---
 
 Kuka Training
@@ -16,6 +17,7 @@ Coffee time
 </figcaption>
 
 </figure>
+
 
 
 

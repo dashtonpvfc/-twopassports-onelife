@@ -1,6 +1,7 @@
 ---
 title: "Air France Lounge CDG"
-date: 2022-08-12`ndestination: "USA 2022"
+date: 2022-08-12
+destination: "USA 2022"
 ---
 
 <figure>
@@ -14,6 +15,7 @@ Wines and champagne on tap....only 40 mins though let's get guzzling
 </figcaption>
 
 </figure>
+
 
 
 

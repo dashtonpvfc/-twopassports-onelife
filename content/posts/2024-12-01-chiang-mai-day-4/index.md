@@ -137,3 +137,4 @@ Woke around 8:45 for the 1.5km walk to The Ping river terminal for the longtail 
 
 
 
+

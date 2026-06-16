@@ -1,6 +1,7 @@
 ---
 title: "Day 23 - Sequioa day 2"
-date: 2022-09-04`ndestination: "USA 2022"
+date: 2022-09-04
+destination: "USA 2022"
 ---
 
 Woke about 9am today, packed the backpack full of waters etc. to attempt to walk to the town of Kernville which is about 3 miles, hats on, suncream on....I think we made it about 200 metres....heat unbearable, stupid idea! Turned round and went back. Realised we were in Death Valley yesterday when it broke the world record for September for anywhere on Earth, which is cool.
@@ -62,6 +63,7 @@ Drove to Kernville, its Labor day weekend in the US so was packed with markets o
 ![](images/20220903_175054479324574445995008.jpg)
 
 ![](images/20220903_1750583347957487237199613.jpg)
+
 
 
 

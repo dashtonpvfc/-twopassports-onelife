@@ -1,6 +1,7 @@
 ---
 title: "Day 5 - Travel to Nashville"
-date: 2022-08-17`ndestination: "USA 2022"
+date: 2022-08-17
+destination: "USA 2022"
 ---
 
 Picked up the hire car, a Nissan Rogue Sport - mini SUV thing...very nice, better than expected!
@@ -36,6 +37,7 @@ Arrived at hotel Comfort Inn at downtown Nashville about 3:30pm....shower and he
 ![](images/20220816_1924431179542534079189687.jpg)
 
 ![](images/20220816_1812024791826233824248639.jpg)
+
 
 
 

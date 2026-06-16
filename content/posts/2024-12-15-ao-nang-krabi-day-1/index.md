@@ -75,3 +75,4 @@ Long tail boat transfer to Ao Nang today - about 3km and 10 minutes - 100 Baht e
 
 
 
+

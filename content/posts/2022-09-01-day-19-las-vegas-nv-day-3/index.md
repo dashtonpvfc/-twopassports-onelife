@@ -1,6 +1,7 @@
 ---
 title: "Day 19 - Las Vegas, NV Day 3"
-date: 2022-09-01`ndestination: "USA 2022"
+date: 2022-09-01
+destination: "USA 2022"
 tags: 
   - "flamingos"
   - "lasvegas"
@@ -53,6 +54,7 @@ Gave Mel a lie in because she hasn't slept enough this holiday. Walked to try an
 ![](images/20220830_2205108169267194777194161.jpg)
 
 ![](images/20220830_2209272775661439435040025.jpg)
+
 
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Day 2 Chicago AM"
-date: 2022-08-14`ndestination: "USA 2022"
+date: 2022-08-14
+destination: "USA 2022"
 tags: 
   - "lou-mitchells"
 ---
@@ -34,6 +35,7 @@ No need for this really
 </figcaption>
 
 </figure>
+
 
 
 

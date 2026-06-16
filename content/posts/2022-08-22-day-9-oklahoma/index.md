@@ -1,6 +1,7 @@
 ---
 title: "Day 9 - Oklahoma"
-date: 2022-08-22`ndestination: "USA 2022"
+date: 2022-08-22
+destination: "USA 2022"
 ---
 
 3 hr 30 drive to El Reno, stopped off first for essentials in Arkansas, baps, water, ham, cheese slices, somehow spent 50 dollars! Went to Oklahoma City memorial museum on the site of the Oklahoma City Bombing - still the largest domestic terrorist bombing on American soil. Very moving to see but beautifully done, temp high 90's today. Filled up with fuel - cost about 30 dollars to fill - Americans doing their nut because it has reached about 65p per litre! Also stopped at a town called Ozark for lunch because of tbe Ozark link - lovely town nestled in the Ozark mountains. Then on to Best Western El Reno which was perfect - in the middle of nowhere with a pool, just jumped in and read a book for a couple of hours. Then went across the road to Montana Mike's Steakhouse for Louisana Pasta and a litre of Michelob Ultra, Mel had a chicken salad..both portions were ginormous, then bed zzzz. Room 80 dollars,food 50 dollars
@@ -42,6 +43,7 @@ date: 2022-08-22`ndestination: "USA 2022"
 ![](images/20220820_1849298824048722150363402.jpg)
 
 ![](images/20220820_1922072524719569982898371.jpg)
+
 
 
 

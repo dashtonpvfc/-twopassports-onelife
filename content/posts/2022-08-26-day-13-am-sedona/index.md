@@ -1,6 +1,7 @@
 ---
 title: "Day 13 am - Sedona"
-date: 2022-08-26`ndestination: "USA 2022"
+date: 2022-08-26
+destination: "USA 2022"
 ---
 
 Started with breakfast in Winslow, I had avocado on toast with cashews? Some kind of nut anyway and Mel had eggs. She was then serenaded with "Sittin' on the Dock of the Bay".....that made her all emotional. Lovely people in Winslow.
@@ -34,6 +35,7 @@ We then headed to Sedona, flash flood warnings coming through on phones and a to
 ![](images/20220824_1548126692562586395091058.jpg)
 
 ![](images/20220824_1548493437684170077179672.jpg)
+
 
 
 

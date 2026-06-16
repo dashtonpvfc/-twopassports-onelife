@@ -1,6 +1,7 @@
 ---
 title: "Day 15 am - Grand Canyon"
-date: 2022-08-27`ndestination: "USA 2022"
+date: 2022-08-27
+destination: "USA 2022"
 ---
 
 Up at 7am, prepped backpack for hike into Grand Canyon, Mel still ill so she stayed in bed. Packed 4 cheese, ham and turkey baps, 6 bottles of water and a cold coffee. Walk was simply stunning.  Majestic views at every turn, weather perfect sunny and low to mid 20's. Made the 1.5 mile point in about 30 minutes and the 3 mile rest point about an hour and 15 mins in. Ate a couple of baps and had the coffee at the mile point, seriously contemplated going to Indian point ( another 1.5 miles) but was getting very warm with the 3 mile climb up estimated to take 2 to 3 times longer in the mid day heat with very little shade. No water taps operational also as a pipe had split. Good decision. Climb up was a grueller, drank all the water....can see why people get in trouble and over estimate their own ability, the last death here on the Bright Angel trail was a woman at the 3 mile point a couple of months ago through exhaustion. Made the trip back up in about 3 hours so 5 hrs total with eating time.
@@ -66,6 +67,7 @@ Showered and walked the 1.5 mile through the national park to Yavapei Tavern - s
 ![](images/img-20220827-wa00054499628141684939588.jpg)
 
 ![](images/img-20220827-wa00045421549202306021774.jpg)
+
 
 
 

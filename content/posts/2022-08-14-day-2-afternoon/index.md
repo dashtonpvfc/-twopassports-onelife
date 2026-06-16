@@ -1,6 +1,7 @@
 ---
 title: "Day 2 afternoon"
-date: 2022-08-14`ndestination: "USA 2022"
+date: 2022-08-14
+destination: "USA 2022"
 ---
 
 Millenium Park
@@ -26,6 +27,7 @@ Coffee then walk to Millenium Park to see Cloud Gate or the "The Bean", a sculpt
 ![](images/20220813_1307368209555966366854779.jpg)
 
 Walked to room for a siesta...I also had the runs, so lost half my body weight
+
 
 
 
