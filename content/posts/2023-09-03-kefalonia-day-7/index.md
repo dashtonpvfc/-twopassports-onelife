@@ -1,6 +1,7 @@
 ---
 title: "Kefalonia - Day 7"
-destination: "Kefalonia 2023"-09-03
+date: 2023-09-03
+destination: "Kefalonia 2023"
 ---
 
 I think I have died. Worst hangover in history. Can't eat or drink or move. Managed to join Mel at the table for tea at "The Pines" restaurant. She had "Ancient Moussaka". It looked and tasted ancient - clearly reheated from the previous day. Very poor. Was in bed by 8pm and Mel read on the balcony.
@@ -20,3 +21,9 @@ I think I have died. Worst hangover in history. Can't eat or drink or move. Mana
 ![](images/10000213946075767691732258365.jpg)
 
 ![](images/1000021390462520104289767297.jpg)
+
+
+
+
+
+

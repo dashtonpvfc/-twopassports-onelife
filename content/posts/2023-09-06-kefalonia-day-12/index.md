@@ -1,6 +1,7 @@
 ---
 title: "Kefalonia - Day 12"
-destination: "Kefalonia 2023"-09-06
+date: 2023-09-06
+destination: "Kefalonia 2023"
 ---
 
 Suitably refreshed we were up for 8:15am for breakfast and ready to catch the bus to Katelios for 9am. €1.8 each one way for the 20 minute journey. Storm heading in over the next 3 days - Storm Daniel ironically, let's see what he brings. Had a walk around the small village, picturesque with line of restaurants and a couple of bars, souvenirs etc. We stopped first for a coffee then walked along the beach which was starting to look significantly bedraggled with the weather and detritus lining the shore. I went rock climbing whilst Mel had a morning snooze on the sand. I nearly slipped and fell into a ravine with my grip less pumps on. Wandered back into town and had a lovely lunch at Alou Yialou, I had the house sandwich and Mel the tortilla equivalent and a beer each. Very good quality. We then had a double ice cream each and ate on a bench overlooking the oncoming storm. Wandered to a bar for a couple of Alfa's then caught the 14 30 bus back to Skala. Stumbled into Panarama bar for a beer or two, huge thunderstorm and cracks of lightning like bombs going on. We batoned down the hatches and drank through it all. Wandered home when it had passed to freshen up. Went to Karma cocktail bar for a couple of cut price Zombies for me and Singapore Slings for Mel. We went to Flamingo's for tea. J had Flamingo's special mixed meat hot pot and Mel the Beef Stifado...both were lovely if a little on the stingy side. And a bottle of Kefalonian Robola wine. Excellent indeed. Tucked up at 22:30.
@@ -60,3 +61,9 @@ Suitably refreshed we were up for 8:15am for breakfast and ready to catch the bu
 ![](images/10000220971220036444178687785.jpg)
 
 ![](images/10000221058244915129543337024.jpg)
+
+
+
+
+
+

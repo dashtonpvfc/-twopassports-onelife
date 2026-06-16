@@ -1,6 +1,6 @@
 ---
 title: "Day 22 - Sequioa National Park, Kernville, California"
-destination: "USA 2022"-09-04
+date: 2022-09-04`ndestination: "USA 2022"
 ---
 
 Early start for busy day. Filled cooler with ice and water, had the shite brekky at the motel ( nutri grain bar, coffee and orange juice). Drove to get fuel from alien cafe and brothel, then headed south into Death Valley. Scenery stunning. Like driving on Mars. Zebreskie point first stop, temp 108 at 10am. Then headed to Badwater Basin - The lowest point of the Americas. Today broke the hottest September day on record for Death Valley. It peaked on us at 124 degrees - 51 degrees C....and climbed to 127 later on. Walked onto the salt plains for 5 minutes then retreated to the safety of the car. Next stop was the Sequioa lodge about 250 miles via the rest of the Death Valley - Stovepipe Wells, Furnace creek, Funeral mountains etc. The drive was simply stunning. The most beautiful,  diverse, scary drive (for Mel, what isn't) I could ever wish for. 6000 feet elevations, switch backs, down to below sea level back up and massive temperature variations throughout. Extreme heat warning flashed on phone and was averaging 115 degrees. Stopped atop the Sierra Nevada mountains for supplies (Indian Wells brewery tap beers). Arrived at lodge about 5pm. Amazing location on the Kern river at an elevation of about 2000 ft. Got supplies from the local supermarket of beer, wine, chicken wings and fried cheese jalepenos. Then we got some tinned chilli and nachos and cheese to make our own loaded nachos. Met our American neighbours who are lovely and played throw a beanbag in a hole which they take really seriously around here bizarrely.  I lost. We saw a skunk and eveyone shit themselves as they had a dog and the skunk may shoot in self defence - they secrete their stench up to 35ft from their bottom. The neighbours said it is impossible to get off. Drank the wine, ate the nachos, had a cold shower and passed out.
@@ -252,3 +252,9 @@ Early start for busy day. Filled cooler with ice and water, had the shite brekky
 ![](images/20220902_2106594926630236135041327.jpg)
 
 ![](images/20220902_2126291827405573343404739.jpg)
+
+
+
+
+
+

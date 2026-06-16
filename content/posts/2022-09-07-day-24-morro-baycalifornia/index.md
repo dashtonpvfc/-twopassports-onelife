@@ -1,6 +1,6 @@
 ---
 title: "Day 24 - Morro Bay,California"
-destination: "USA 2022"-09-07
+date: 2022-09-07`ndestination: "USA 2022"
 ---
 
 Day 24 - Morro Bay, California. Up early for the 4 hour drive to Morro Bay, CA. This drive, in particular the drive through the Sequoia National park was right up there with the best! Hair raising turns and thousand foot drops aplenty, Mel was a nervous wreck.....again. flattened as we entered the ciry of Balersfield and saw the nodding donkeys of the vast oil wells that turned into wine country as we entered Paso Robles. Got to Morro Bay at about 14:30, checked in, hotel still pursuing a bizarre strict mask policy ahem. Bayfront inn on the main stretch right on the sea was a perfect location, room small with no air con but a fan so all good. Walked along the beachfront, weather perfect, mid 80's and full sun - such a change from previous days. Seal lions and Sea otters here are amazing.
@@ -60,3 +60,9 @@ Walked to Libertine Inn for beers, realised they specialised in sours, Mel hated
 ![](images/img_20220904_221801_9957265546643060115446.jpg)
 
 ![](images/img_20220904_221802_499692032901292457208.jpg)
+
+
+
+
+
+

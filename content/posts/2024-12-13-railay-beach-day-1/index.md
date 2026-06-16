@@ -1,6 +1,7 @@
 ---
 title: "Railay Beach day 1"
-destination: "Thailand 2024"2-13
+date: 2024-2-13
+destination: "Thailand 2024"
 ---
 
 Packed ready for the speedboat trip over to Railay Beach on the southern tip of the Krabi peninsular only accessible by boat. Went for an omelette first and to pick up some water and supplies from 711, then grabbed the boat tickets for 600 naht each. Mel having strange dizzy spells and is not great, close to passing out....not helped by being boiling today, carrying all our luggage and hustle and chaos at the port not knowing where to get our boat from. Finally found it and climbed aboard the huge four engine speedboat. This thing is fast! And loud! Nice to get wind in our hair at last and feel a bit cooler. The journey took about half an hour until the huge limestone cliffs appeared on the horizon. Railay is stunningly beautiful. We alighted the boat and walked the 10 minutes to our hotel - Avatar Resort. Lovely place, the most expensive on our trip at about £62 a night, but it does have a swim up room. Everything about it is gorgeous, the biggest bed in the world, huge TV and a massive balcony on with bed outside also. The monkeys roam freely around your room so nothing can be left outside as they steal everything. Chilled around the pool and had a swim then we went for walk around the mangrove beach on the east side and through the main stretch to the beautiful Railay West beach. Monkeys are everywhere. Grabbed a Pad Thai and some noodles at a local Thai place and came back to the room and watched YouTube as Mel really not well.
@@ -74,3 +75,9 @@ Packed ready for the speedboat trip over to Railay Beach on the southern tip of 
 ![](images/20241211_2009108494876398593307031.jpg)
 
 https://videopress.com/v/wXxVA9c5?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+
+
+
+
+
+

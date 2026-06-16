@@ -1,6 +1,7 @@
 ---
 title: "Phuket Karon Beach day 2"
-destination: "Thailand 2024"2-11
+date: 2024-2-11
+destination: "Thailand 2024"
 ---
 
 Awoke from a lovely sleep on a very firm mattress and headed out for breakfast - went to the cafe on the corner for a lovely chilled iced cappuccino and headed to the beach all day, only leaving for a late lunch of fried rice each with green curry and a Leo beer. Heard news of a tornado in Kidsgrove...oh how we miss it. Watched the sunset on the beach, which was wonderful....possibly the best yet with the vibrant colours juxtaposed with the aquatic blue of the sea. At night we went to see some live music at another venue, "Starz", Mel had a Mai Tai and myself a beer. We then found a lovely rooftop bar for a few cocktails when the heavens opened and we all scuttled for cover...met a fellow pair of Stokies, can tell that twang anywhere (not that I'm a Stokie anymore). Watched some fireworks from the rooftop and then went for some more live music - don't remember eating but in bed by 1:30am - the Scandinavian told us, he also said he has cameras everywhere worryingly!
@@ -46,3 +47,9 @@ Awoke from a lovely sleep on a very firm mattress and headed out for breakfast -
 ![](images/20241206_2255002712254550186090130.jpg)
 
 ![](images/20241206_2203044728724572103855621.jpg)
+
+
+
+
+
+

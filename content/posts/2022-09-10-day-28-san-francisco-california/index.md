@@ -1,6 +1,6 @@
 ---
 title: "Day 28 - San Francisco, California"
-destination: "USA 2022"-09-10
+date: 2022-09-10`ndestination: "USA 2022"
 ---
 
 Very warm again - low 90's unheard of here in September. 2 hour journey. Up at 9am as realised car needed to be back in San Francisco at...9am oops. Nailed it to San Fran, avoiding the thousands of homeless lining the streets in tents and all sorts. Managed to get to the Grant Hotel by 10:30 which was some going, downtown was pretty much gridlock and the car needed to be returned with a full tank of gas, had about half a tank, decided to wing it, got to Hertz at about 11am, they let me off for being late and let me off for being half a tank less than I should have done - winner. The multi city drop off fee of $640 soothed their pain....and made me wince. Walked the mile back to hotel to manhandle our 2 suitcases, 2 massive bags, a cooler, and about 2 other bags of shite to the top floor of the hotel. Biggest mistake of the whole holiday was not just having hand luggage and washing more regularly. Collapsed on the bed. No air con either but a fan. Mel told me the Queen had died. How very sad, all over American news...literally every channel. Googled a place for lunch - Mo's Grill about half a mile from us, walked. Wow! These hills in this heat are a trek! Every road is like Station Bank. Sweating like mad on arrival. Had a "Sloppy Mo's"...a pulled pork bap, gorgeous! Mel had a "Thanksgiving Dinner" - a Thursday special, she loved it - comfort food to remind her of a sunday dinner. Wandered for miles to fishermans wharf pier 45 to see the historic WWII submarine and warship and a look around the area. Walked miles and back, stopped for a CBD drink for Mel and some hippy juice for me....cost about a tenner...and both were rank. Mel got her head down for an hour, showered and went out to a sports bar ( both knackered at this point ). Had a beer, not really feeling it as both so tired, was rammed as well with young lively people watching some American college football game (egg shaped). Walked downtown to Mikkeler bar, sketchy area with all the homeless, but bar was great, planned to go to an Indian up the road but it shut at 8:45 so we stayed and had some food - I had a hot dog and fries and  Mel had a Falafel platter..very nice, Uber back to the wooden hills.
@@ -144,3 +144,9 @@ Very warm again - low 90's unheard of here in September. 2 hour journey. Up at 9
 ![](images/20220908_2130011416656350809501794.jpg)
 
 ![](images/20220908_2201516500989286210658062.jpg)
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 ---
 title: "Day 17 pm - Las Vegas"
-destination: "USA 2022"-09-01
+date: 2022-09-01`ndestination: "USA 2022"
 ---
 
 Wasn't looking forward to driving in Central Las Vegas at rush hour, but turned out to be absolutely fine, the sat nav was spot on, and we stopped to unload right outside our hotel Harrah's which is part of the Caesars chain of Hotels. I then went to park in the multi story opposite - $18 per day. We settled in and showered etc. We went for a drink at Beer park near the "Eiffel Tower" then Mel felt hot and ill so she went to the room and I explored the sights all evening, what a place! A proper smorgasbord board of cultures and ages all intermingling in the adults playground. Plenty of homeless and drugged up individuals who clearly should be locked away...but it all adds to the storyboard. I wandered about 20 miles in total throughout the day and night, saw some live music here and there, saw the Bellagio fountains, and many other "interesting" sights ahem. Played craps and doubled my money (from $20 to $40 haha). Had a foot long hot dog and other Nik naks and went to bed about midnight ish.
@@ -62,3 +62,9 @@ Wasn't looking forward to driving in Central Las Vegas at rush hour, but turned 
 ![](images/20220828_2328287142680733231176595.jpg)
 
 ![](images/20220828_234252365317326538158242.jpg)
+
+
+
+
+
+

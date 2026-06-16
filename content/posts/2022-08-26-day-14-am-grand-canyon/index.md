@@ -1,6 +1,6 @@
 ---
 title: "Day 14 am - Grand Canyon"
-destination: "USA 2022"-08-26
+date: 2022-08-26`ndestination: "USA 2022"
 ---
 
 Big day ahead - up at 7am to hike to Bell Rock, stunning walk around the big butte, I cannot lie. Scenery gorgeous, walked about 4 mile then started to go steeper, got about 400 ft up, started to go vertical ( in my head ), hikers above told me to climb up on all fours, went to go, slipped in my tenni shoes, thought "nah" maybe not. So just hung on for death life to regain composure. Video called Liam to prove it haha.
@@ -52,3 +52,9 @@ Mel brought polystyrene cool box and sandwich stuff to try and rein spending ( a
 ![](images/20220825_1858347538596996425018766.jpg)
 
 ![](images/20220825_1856105793463145087207113.jpg)
+
+
+
+
+
+

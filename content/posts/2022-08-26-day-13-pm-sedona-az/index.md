@@ -1,6 +1,6 @@
 ---
 title: "Day 13 pm - Sedona, AZ"
-destination: "USA 2022"-08-26
+date: 2022-08-26`ndestination: "USA 2022"
 ---
 
 Travelled to the Sedona Lodge Hotel in the Village of Oak Creek, arrived about 5pm, weather still cool about 22 deg. Checked in, had a suite with a fireplace and a separate bedroom. Headed out to furthest bar as walking has become non existant lately and going to be the size of a bus. About a mile to full moon saloon for a local red ale and a cocktail for Mel, then headed up the road to PJ'S village pub, what a surprise, brilliant I've music with a band singing all 90's classic hits, really good night, I had a cup of chilli and sweet potato fries, Mel had chicken tender, all really good....then stocked up at the local K as I am planning to climb Bell Rock first thing in tbe morning. Bed at 9:30pm
@@ -20,3 +20,9 @@ Travelled to the Sedona Lodge Hotel in the Village of Oak Creek, arrived about 5
 ![](images/imgly_17237874254381896352700871703521041091.jpg)
 
 ![](images/20220824_2114088584354414777121595.jpg)
+
+
+
+
+
+

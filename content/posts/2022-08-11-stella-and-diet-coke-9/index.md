@@ -1,6 +1,6 @@
 ---
 title: "Stella and diet coke £9"
-destination: "USA 2022"-08-11
+date: 2022-08-11`ndestination: "USA 2022"
 ---
 
 <figure>
@@ -14,3 +14,9 @@ Laandaaann
 </figcaption>
 
 </figure>
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 ---
 title: "Day 3 lunch"
-destination: "USA 2022"-08-14
+date: 2022-08-14`ndestination: "USA 2022"
 ---
 
 Ridiculous
@@ -16,3 +16,9 @@ The nachos were a starter! Wtf
 </figcaption>
 
 </figure>
+
+
+
+
+
+

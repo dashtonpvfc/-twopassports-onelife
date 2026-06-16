@@ -1,6 +1,6 @@
 ---
 title: "Day 2 night"
-destination: "USA 2022"-08-14
+date: 2022-08-14`ndestination: "USA 2022"
 ---
 
 Walked for Miles to see The Magnificent Mile,then went to Navy Pier to see the sight and get ready for the fireworks that celebrate independence day. Went on a ferris wheel that is larger than the London Eye. 3 pints and 3 cocktails, 70 dollars. Ferris 40 dollars. Footlong sandwiches 24 dollars.
@@ -40,3 +40,9 @@ Walked for Miles to see The Magnificent Mile,then went to Navy Pier to see the s
 ![](images/20220813_2239085350472651964695371.jpg)
 
 ![](images/20220813_2239035397444646392997761.jpg)
+
+
+
+
+
+

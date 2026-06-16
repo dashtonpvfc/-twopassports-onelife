@@ -1,6 +1,6 @@
 ---
 title: "Day 26 - Santa Cruz, California"
-destination: "USA 2022"-09-07
+date: 2022-09-07`ndestination: "USA 2022"
 ---
 
 Long day ahead - travelling along Highway 1 - one of the most spectacular drives in the World...along the West Coast of the US from Morro Bay to Santa Cruz. First stop bakery for our stodgefest of a cinnamon bun each. Packed the car and off we go, first stop was a lookout point to see the Elephant Sea Lions resting on the beach ready for their [3000](tel:3000) mile journey to feed. So glad I brought the binoculars,  can see every expression. Some massive elephant seals here, must be at least 10 foot long and 2.5 tonnes. Then Ragged point for a vanilla mocha oatmilk meal vegan organic coffee....can't tell the difference personally...everyone here moaning that it's too hot - about 85 degrees! Amateurs. Normally foggy everywhere here this time of year, but it has been beautiful for us so far. Scenery amazing. Really amazing. Every turn has a new vista to look at. Headed for Carmel-by-the-sea next..wow this is very lah-di-da, Bentley's, Rolls and Mclarens aplenty, an elder demographic shall we say. Had lunch at a Greek Restaurant....really should have just packed a lunch in the cooler, SO expensive, had a American cheeseburger and Mel had Hummus and bread....i think that was about $55 with tip. Sickening. And the exchange rate with the US has just hit an all time low. I call it the Danny effect. This drive took far longer than expected - I think it was about 6 hours in total for about 170 miles with stops. Arrived at Beachview Inn at about 17:30 - great location on the beach next to the municipal wharf (pier). Showered and headed for the Lupulo craft beer house, slightly sketchy area that we walked through, could tell Mel was a little apprehensive....but then a granny cycled past us and it put her mind at ease. Couple of beers at the brewery,  checked for Uber availability just in case, all good, headed along downtown to Kiantis Pizza and Pasta bar, really good reviews...this place was started by the pizza spinning champion of the world, quite a title so had a lot to live up to. Sat outside by the fire as a little nipply. Had a couple of beers and a double Voddie for Mel. Ordered a 14 inch everything on it pizza and a mac and cheese for Mel. Pizza was divine. Rolled home (literally) about 11pm for sleepy time.
@@ -138,3 +138,9 @@ Long day ahead - travelling along Highway 1 - one of the most spectacular drives
 ![](images/20220906_2149291374587576231839930.jpg)
 
 ![](images/20220906_2221513635925296105982224.jpg)
+
+
+
+
+
+

@@ -1,6 +1,7 @@
 ---
 title: "Croatia 2025 - Day 10"
-destination: "Croatia 2025"-11
+date: 2025-09-11
+destination: "Croatia 2025"
 destination: "Croatia 2025"
 ---
 
@@ -29,3 +30,9 @@ Had breakfast with a storm all around us and pelting rain. Finished up and left 
 ![](images/20250910_1847253238873731525127529.jpg)
 
 ![](images/20250910_1926042827363351357679789.jpg)
+
+
+
+
+
+

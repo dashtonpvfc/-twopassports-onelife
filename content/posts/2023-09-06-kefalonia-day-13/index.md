@@ -1,6 +1,7 @@
 ---
 title: "Kefalonia - Day 13"
-destination: "Kefalonia 2023"-09-06
+date: 2023-09-06
+destination: "Kefalonia 2023"
 ---
 
 Up at 8:30 for bus trip to the capital - Argostoli. Bus picked us up at 9:15. Absolutely rammed with air con not working but luckily cool outside so not too bad. Hour and half journey through the mountainous terrain with hairpins aplenty. Had to sit in front of 7 rowdy young gossiping la di Da English ladies talking cac for the whole journey. Walked along the 700 metre De Bosset bridge on arrival - the longest concrete bridge in Europe, quite an engineering feat at the time. Then walked back for a coffee at Ristretto and a walk into town aiming for the only real ale place on the island with cracking reviews and brilliant food - I even got Mel enthused....but it was shut. So we ended up buying a pizza slice and a cheese and ham pie and Mel a cream cheese salad bagel. Had a couple of beers on the harbour and then spotted Caretta Caretta sea turtles! Swam right up to us and even posed for photos. 27 have been identified in the area and we saw 2 of them. Bus back around 14:30 arrived Skala about 16:00. Mel wanted a Crepe...but the shop was shut. Back to room, ready and I went out while Mel had a kip, proper hurricane brewing now, pint on a bar on the beachfront, thought building was going to take off. Mel came to us at Panorama for a couple and then to Remvi (for the 3rd time). Vesuvius pizza for me and a chicken carbonara for Mel (again). Wrapped up in bed for 10pm snoring.
@@ -72,3 +73,9 @@ Up at 8:30 for bus trip to the capital - Argostoli. Bus picked us up at 9:15. Ab
 ![](images/10000222573852674115463388945.jpg)
 
 ![](images/10000222591589700899669604197.jpg)
+
+
+
+
+
+

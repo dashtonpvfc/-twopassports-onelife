@@ -1,6 +1,6 @@
 ---
 title: "Day 3 Chicago Evening"
-destination: "USA 2022"-08-17
+date: 2022-08-17`ndestination: "USA 2022"
 ---
 
 Rooftop bar at London Hluse for a beer and a voddie then Brewery Tap for a flight of beers then a Lou Malnati's Chicago Deep Dish Pizza to take back....took us 3 days to finish!
@@ -28,3 +28,9 @@ Rooftop bar at London Hluse for a beer and a voddie then Brewery Tap for a fligh
 ![](images/20220814_1801375869171834127693748.jpg)
 
 ![](images/20220814_2114243137517274212847099.jpg)
+
+
+
+
+
+
