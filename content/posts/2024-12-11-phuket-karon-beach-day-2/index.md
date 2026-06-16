@@ -1,6 +1,6 @@
 ---
 title: "Phuket Karon Beach day 2"
-date: 2024-2-11
+date: 2024-12-11
 destination: "Thailand 2024"
 ---
 
@@ -47,6 +47,8 @@ Awoke from a lovely sleep on a very firm mattress and headed out for breakfast -
 ![](images/20241206_2255002712254550186090130.jpg)
 
 ![](images/20241206_2203044728724572103855621.jpg)
+
+
 
 
 

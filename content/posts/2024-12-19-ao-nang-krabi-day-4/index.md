@@ -1,6 +1,6 @@
 ---
 title: "Ao Nang Krabi day 4"
-date: 2024-2-19
+date: 2024-12-19
 destination: "Thailand 2024"
 ---
 
@@ -27,6 +27,8 @@ Woke and had lovely breakfast at hotel around 9ish - on my own as Mel needed a l
 ![](images/20241216_1902052781873744937494618.jpg)
 
 ![](images/20241216_1931255717334865530337095.jpg)
+
+
 
 
 

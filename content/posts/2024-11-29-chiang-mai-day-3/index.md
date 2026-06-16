@@ -1,6 +1,6 @@
 ---
 title: "Chiang Mai day 3"
-date: 2024-1-29
+date: 2024-11-29
 destination: "Thailand 2024"
 ---
 
@@ -105,6 +105,8 @@ Woke about 9ish after a good 12 hours sleep ready for elephant day! Walked the 1
 ![](images/20241128_2204244513102022563362726.jpg)
 
 ![](images/20241128_2242446322191934387907719.jpg)
+
+
 
 
 

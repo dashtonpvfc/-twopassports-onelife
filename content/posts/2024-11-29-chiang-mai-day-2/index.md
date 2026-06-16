@@ -1,6 +1,6 @@
 ---
 title: "Chiang Mai day 2"
-date: 2024-1-29
+date: 2024-11-29
 destination: "Thailand 2024"
 ---
 
@@ -175,6 +175,8 @@ destination: "Thailand 2024"
 ![](images/20241127_2030371094744633169997294.jpg)
 
 ![](images/20241127_2036523236854798503716732.jpg)
+
+
 
 
 

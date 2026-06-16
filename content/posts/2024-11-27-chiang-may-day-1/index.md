@@ -1,6 +1,6 @@
 ---
 title: "Chiang Mai day 1"
-date: 2024-1-27
+date: 2024-11-27
 destination: "Thailand 2024"
 ---
 
@@ -81,6 +81,8 @@ https://videopress.com/v/y7Xs97R5?resizeToParent=true&cover=true&preloadContent=
 https://videopress.com/v/qmW4STFS?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
 
 https://videopress.com/v/Ncl2rPrR?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+
+
 
 
 

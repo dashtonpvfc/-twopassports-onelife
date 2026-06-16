@@ -1,6 +1,6 @@
 ---
 title: "Phi Phi Islands day 1"
-date: 2024-2-11
+date: 2024-12-11
 destination: "Thailand 2024"
 ---
 
@@ -157,6 +157,8 @@ Up at 9am for the Bolt to Rassada pier for the 10:30am crossing to the Phi Phi I
 ![](images/20241208_232118943178634631053069.jpg)
 
 ![](images/20241208_2322461233586813085273827.jpg)
+
+
 
 
 

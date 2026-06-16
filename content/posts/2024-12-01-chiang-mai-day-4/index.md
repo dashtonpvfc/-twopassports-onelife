@@ -1,6 +1,6 @@
 ---
 title: "Chiang Mai day 4"
-date: 2024-2-01
+date: 2024-12-01
 destination: "Thailand 2024"
 ---
 
@@ -131,6 +131,8 @@ Woke around 8:45 for the 1.5km walk to The Ping river terminal for the longtail 
 ![](images/20241130_0006354352551432424064275.jpg)
 
 ![](images/20241130_0042391848268805168683688.jpg)
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Phuket Kamala day 1"
-date: 2024-2-07
+date: 2024-12-07
 destination: "Thailand 2024"
 ---
 
@@ -25,6 +25,8 @@ Started the 1.5km walk en route to airport and stopped for a lovely breakfast of
 ![](images/20241201_2106427183433154314442590.jpg)
 
 ![](images/20241201_2106572136956009376354322.jpg)
+
+
 
 
 

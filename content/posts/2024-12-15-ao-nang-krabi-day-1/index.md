@@ -1,6 +1,6 @@
 ---
 title: "Ao Nang Krabi day 1"
-date: 2024-2-15
+date: 2024-12-15
 destination: "Thailand 2024"
 ---
 
@@ -69,6 +69,8 @@ Long tail boat transfer to Ao Nang today - about 3km and 10 minutes - 100 Baht e
 ![](images/20241213_2347371434853376245044365.jpg)
 
 ![](images/20241213_2350291357503593842612230.jpg)
+
+
 
 
 

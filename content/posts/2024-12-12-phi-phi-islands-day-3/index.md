@@ -1,6 +1,6 @@
 ---
 title: "Phi Phi Islands day 3"
-date: 2024-2-12
+date: 2024-12-12
 destination: "Thailand 2024"
 ---
 
@@ -97,6 +97,8 @@ Mel fancied a lie in, and as it was slightly overcast, I decided to go for a hik
 ![](images/20241210_2307539192717878621408547.jpg)
 
 ![](images/20241210_2313148795778579595833138.jpg)
+
+
 
 
 

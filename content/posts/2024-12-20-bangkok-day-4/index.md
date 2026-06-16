@@ -1,6 +1,6 @@
 ---
 title: "Bangkok day 4"
-date: 2024-2-20
+date: 2024-12-20
 destination: "Thailand 2024"
 ---
 
@@ -69,6 +69,8 @@ destination: "Thailand 2024"
 ![](images/20241218_1935022222238416418207045.jpg)
 
 ![](images/20241218_2012028145968342086561555.jpg)
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Day 3"
-date: 2024-1-27
+date: 2024-11-27
 destination: "Thailand 2024"
 ---
 
@@ -77,6 +77,8 @@ Bit of a lie in today to recover from the chaos of Khao San Road, Mel needed sto
 ![](images/20241125_1904021071877031992998509.jpg)
 
 ![](images/20241125_2008517582732856992299794.jpg)
+
+
 
 
 

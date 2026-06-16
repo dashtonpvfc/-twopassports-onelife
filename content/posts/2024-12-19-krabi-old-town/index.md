@@ -1,6 +1,6 @@
 ---
 title: "Krabi Old Town"
-date: 2024-2-19
+date: 2024-12-19
 destination: "Thailand 2024"
 ---
 
@@ -87,6 +87,8 @@ Woke on our last day on the beach to blazing sunshine and clear blue skies - fir
 ![](images/20241217_2058211934736788822981113.jpg)
 
 ![](images/20241217_2059395755983103329137357.jpg)
+
+
 
 
 

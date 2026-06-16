@@ -1,6 +1,6 @@
 ---
 title: "Phi Phi Islands day 2"
-date: 2024-2-12
+date: 2024-12-12
 destination: "Thailand 2024"
 ---
 
@@ -107,6 +107,8 @@ Up at 9:30 for the 10:30 7 island tour via long tail boat. Chaotic scenes at the
 ![](images/20241209_2130276436623355892058769.jpg)
 
 ![](images/20241209_2134391055246423749908059.jpg)
+
+
 
 
 

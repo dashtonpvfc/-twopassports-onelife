@@ -44,3 +44,5 @@ Arrived at hotel Comfort Inn at downtown Nashville about 3:30pm....shower and he
 
 
 
+
+

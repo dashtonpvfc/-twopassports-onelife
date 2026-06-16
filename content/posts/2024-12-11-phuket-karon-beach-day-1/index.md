@@ -1,6 +1,6 @@
 ---
 title: "Phuket Karon Beach day 1"
-date: 2024-2-11
+date: 2024-12-11
 destination: "Thailand 2024"
 ---
 
@@ -31,6 +31,8 @@ Checked out of that vomit infested room and headed for our third place in Phuket
 ![](images/20241205_2100392228226090645133191.jpg)
 
 ![](images/20241205_2124045325055323823989903.jpg)
+
+
 
 
 

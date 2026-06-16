@@ -1,6 +1,6 @@
 ---
 title: "Railay Beach day 2"
-date: 2024-2-13
+date: 2024-12-13
 destination: "Thailand 2024"
 ---
 
@@ -49,6 +49,8 @@ Woke at 9am and headed for the free breakfast...including an omelette station! I
 ![](images/20241212_2108525099755189380021536.jpg)
 
 ![](images/20241212_2114113981341087237074468.jpg)
+
+
 
 
 

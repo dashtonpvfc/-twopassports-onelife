@@ -1,6 +1,6 @@
 ---
 title: "Ao Nang Krabi day 2"
-date: 2024-2-17
+date: 2024-12-17
 destination: "Thailand 2024"
 ---
 
@@ -51,6 +51,8 @@ Had another cocktail at a pop up bar on the street and Met sleepy Mel at the sam
 ![](images/20241214_2150468955763940423819806.jpg)
 
 ![](images/img-20241214-wa00938797279241673470370.jpg)
+
+
 
 
 

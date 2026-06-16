@@ -1,6 +1,6 @@
 ---
 title: "Railay Beach day 1"
-date: 2024-2-13
+date: 2024-12-13
 destination: "Thailand 2024"
 ---
 
@@ -75,6 +75,8 @@ Packed ready for the speedboat trip over to Railay Beach on the southern tip of 
 ![](images/20241211_2009108494876398593307031.jpg)
 
 https://videopress.com/v/wXxVA9c5?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+
+
 
 
 

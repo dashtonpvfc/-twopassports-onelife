@@ -1,6 +1,6 @@
 ---
 title: "21st November 2024"
-date: 2024-1-21
+date: 2024-11-21
 destination: "Thailand 2024"
 ---
 
@@ -19,6 +19,8 @@ Beef Stew
 </figcaption>
 
 </figure>
+
+
 
 
 

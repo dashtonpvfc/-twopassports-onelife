@@ -1,6 +1,6 @@
 ---
 title: "Ao Nang Krabi day 3"
-date: 2024-2-17
+date: 2024-12-17
 destination: "Thailand 2024"
 ---
 
@@ -89,6 +89,8 @@ Just about made breakfast today at 9:45....not much left, but enough to utilise 
 ![](images/20241216_0144368162268058614153699.jpg)
 
 ![](images/20241216_0151573578166107549535572.jpg)
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Phuket Karon Beach day 3"
-date: 2024-2-11
+date: 2024-12-11
 destination: "Thailand 2024"
 ---
 
@@ -81,6 +81,8 @@ Got a Bolt to Kata Beach today for a change of scenery, first to a cafe for brea
 ![](images/20241207_2201566182359621714401206.jpg)
 
 ![](images/20241207_2237146257503345972807590.jpg)
+
+
 
 
 

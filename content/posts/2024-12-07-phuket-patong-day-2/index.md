@@ -1,6 +1,6 @@
 ---
 title: "Phuket Patong day 2"
-date: 2024-2-07
+date: 2024-12-07
 destination: "Thailand 2024"
 ---
 
@@ -219,6 +219,8 @@ Started the day with 2 more imodiums - total now 6 as we have a full day James B
 ![](images/20241204_2056223265564356239398348.jpg)
 
 ![](images/20241204_2057017622356742925614301.jpg)
+
+
 
 
 

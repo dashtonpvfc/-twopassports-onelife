@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Day 2"
-date: 2024-1-26
+date: 2024-11-26
 destination: "Thailand 2024"
 ---
 
@@ -95,6 +95,8 @@ Up about 10:30am fresh as a daisy....walked a short distance to Latte Bua for co
 ![](images/20241124_1935226785247877446757687.jpg)
 
 ![](images/20241125_0004253751831634708756067.jpg)
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Chiang Mai day 5"
-date: 2024-2-01
+date: 2024-12-01
 destination: "Thailand 2024"
 ---
 
@@ -131,6 +131,8 @@ Woke with slightly banging head in excitement for the cooking class pick up at 8
 ![](images/20241130_2057201738088554739236314.jpg)
 
 ![](images/20241130_2057234841165226715670126.jpg)
+
+
 
 
 

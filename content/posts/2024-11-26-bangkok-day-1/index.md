@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Day 1"
-date: 2024-1-26
+date: 2024-11-26
 destination: "Thailand 2024"
 ---
 
@@ -47,6 +47,8 @@ Started the trip with a cancelled train from Manchester to the airport due to sn
 ![](images/20241123_1614297253830988936717609.jpg)
 
 https://videopress.com/v/R2SYG8Cp?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
+
+
 
 
 

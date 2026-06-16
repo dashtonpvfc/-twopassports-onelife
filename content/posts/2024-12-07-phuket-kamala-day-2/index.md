@@ -1,6 +1,6 @@
 ---
 title: "Phuket Kamala day 2"
-date: 2024-2-07
+date: 2024-12-07
 destination: "Thailand 2024"
 ---
 
@@ -49,6 +49,8 @@ Started the day with coffee and a HUGE breakfast at On The Beach cafe on the mai
 ![](images/screenshot_20241202_231248_photos7863805555900628722.jpg)
 
 ![](images/20241202_2236236372203058044457651.jpg)
+
+
 
 
 

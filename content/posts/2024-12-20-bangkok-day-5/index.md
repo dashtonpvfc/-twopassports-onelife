@@ -1,6 +1,6 @@
 ---
 title: "Bangkok day 5"
-date: 2024-2-20
+date: 2024-12-20
 destination: "Thailand 2024"
 ---
 
@@ -35,6 +35,8 @@ Bolt for short 15 minute journey to airport at 7:15am - arrived within 2 mins - 
 ![](images/20241219_1929151972411821644781783.jpg)
 
 ![](images/20241219_19292494246617430771351.jpg)
+
+
 
 
 
