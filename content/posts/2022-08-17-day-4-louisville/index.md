@@ -1,7 +1,7 @@
 ---
 title: "Day 4 - Louisville"
 date: 2022-08-17
-destination: "USA 2022"
+destination: ["USA 2022"]
 ---
 
 Forgot about this day, oops!
@@ -43,6 +43,10 @@ Ended up at The Troll pub under the Bridge, amazing beers and place, and the peo
 ![](images/20220816_1204408023237562658747309.jpg)
 
 We also had a "Hot Brown" from the Brown Hotel.....a speciality of Lousville...delicious
+
+
+
+
 
 
 

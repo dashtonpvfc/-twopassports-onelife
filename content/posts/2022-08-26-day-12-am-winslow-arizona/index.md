@@ -1,7 +1,7 @@
 ---
 title: "Day 12 am- Winslow, Arizona"
 date: 2022-08-26
-destination: "USA 2022"
+destination: ["USA 2022"]
 ---
 
 Started with a Breaking Bad mini tour of Albuquerque! Headed to The Pinkman's house, then to Los Pollos Hermanos, or Twister's as it is now called, sat in the same seat as Walt and (tried to) recreate the pose, hmm.
@@ -37,6 +37,10 @@ Hit the I40 to Grants for a quite Route 66 detour, stunning scenery now, buttes 
 ![](images/20220823_144530\(0\)8604704453143131911.jpg)
 
 ![](images/20220823_1446041218854663879520784.jpg)
+
+
+
+
 
 
 

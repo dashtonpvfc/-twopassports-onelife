@@ -1,7 +1,7 @@
 ---
 title: "Phuket Karon Beach day 3"
 date: 2024-12-11
-destination: "Thailand 2024"
+destination: ["Thailand 2024"]
 ---
 
 Got a Bolt to Kata Beach today for a change of scenery, first to a cafe for breakfast of scrambled eggs for me and a Croissant and cheese for Mel. Then on to the beach, Kata is a lovely beach with white pure white sand (lots of Russians, however, with their trademark white hoody). Very warm today, mid 30's and 90% humidity so the sea was much needed. We both got continuously stung in the sea from jelly fish larvae which is like small electric shocks - this is unique to Karon and Kata Beach but you do get used to it. Headed for a light lunch - and I mean a light lunch, check out the photos! Basically a round of bread toasted with no crusts and a piece of boiled chicken in it. Mel had a club sandwich which was double the size of mine - and still tiny. Stayed for the sunset and wow, what a spectacle! This really was the best yet. Photos don't do it justice. Bolt back to the hotel and the voyeuristic Scandinavian. Running late today so had a quick beer and as we were absolutely ravenous after our paltry lunch we were craving an Indian so that's what we did. It was very good, naans were good, chips were lovely and the flavour of the curry was spot on we both agreed. Bed by 11:30pm.
@@ -81,6 +81,10 @@ Got a Bolt to Kata Beach today for a change of scenery, first to a cafe for brea
 ![](images/20241207_2201566182359621714401206.jpg)
 
 ![](images/20241207_2237146257503345972807590.jpg)
+
+
+
+
 
 
 

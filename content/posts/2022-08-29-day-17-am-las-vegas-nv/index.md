@@ -1,7 +1,7 @@
 ---
 title: "Day 17 am - Las Vegas, NV"
 date: 2022-08-29
-destination: "USA 2022"
+destination: ["USA 2022"]
 ---
 
 Took a final look at the Canyon and make some video calls before heading off to Vegas baby! Headed majority of this route through route 66 and the wonderful town of Seligman, stopped here for coffee and then went to the famous Road Kill Café. Had an Elk burger and Mel had a cheese burger, great place with a great backstory of the owners and their push to get Route 66 recognised following its demise due to the new interstate and the closure of the stop here of Santa Fe railroad. We then headed to see one of the man made wonders of the World, the Hoover Dam, a truly remarkable engineering feat to carry out nowadays never mind back then with the primitive equipment and treacherous conditions and climate, as the hundreds of deaths will testify to. Temperature well into 40's up here and barely walkable ( too much for Mel )
@@ -61,6 +61,10 @@ Took a final look at the Canyon and make some video calls before heading off to 
 ![](images/20220828_1358107432558449480090267.jpg)
 
 ![](images/20220828_1427067359004476866084380.jpg)
+
+
+
+
 
 
 

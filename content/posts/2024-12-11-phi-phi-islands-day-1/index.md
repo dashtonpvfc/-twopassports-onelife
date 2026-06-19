@@ -1,7 +1,7 @@
 ---
 title: "Phi Phi Islands day 1"
 date: 2024-12-11
-destination: "Thailand 2024"
+destination: ["Thailand 2024"]
 ---
 
 Up at 9am for the Bolt to Rassada pier for the 10:30am crossing to the Phi Phi Islands. So excited! Always wanted to go here since watching The Beach with Leonardo Di Caprio. The ferry crossing took about 2 hours but was very comfortable and plenty of levels to move around, I had a sandwich which was bland and Mel had an egg sandwich but didn't eat it as she had "bad vibes" about it ahem. The crossing was 550 Baht each. Arrived early afternoon and met with the golden arches of McDonald's...I tutted loudly at this image of gluttony and  obesity reaching this beautiful far flung island in the middle of the Andaman sea. We fell into the "The Dubliner" Irish pub for a swift pint of Leo each and then headed to our home for the next 3 days - The Sunflower Boathouse. Amazingly quirky place, all made of wood in the shape of a boat (funnily enough) right next to the beach. We dropped our bags and went for a late lunch of Shrimp Pad Thai for me, noodles for Mel and a shared starter of spring rolls...all was fabulous! And a bottle of Leo to boot. Had a walk across the beach to witness an Ibiza Pool party! Music was about a 1000 decibels but the kids were getting down with it maan. Kept walking and picked a beach bat and a had a bottle of Leo each overlooking the bobbing long tail boats and the waves lapping at our feet. Bliss. Walked back to the Guesthouse and got ready, had a quick one in the beautiful garden before heading to the beach to watch the fire show...these guys are unbelievable! Some of it defied all logic, we had many cocktails, Long Island Ice Tea's for myself, and Mel had a few beers. The fire shows are on for hours so we stayed until the end. Mel went all tired so I went for a wander and had a cocktail whilst watching a bit of footy then ended up at the Muay Thai Stadium....these are some tough Thai's! Stumbled in at about 1am.
@@ -157,6 +157,10 @@ Up at 9am for the Bolt to Rassada pier for the 10:30am crossing to the Phi Phi I
 ![](images/20241208_232118943178634631053069.jpg)
 
 ![](images/20241208_2322461233586813085273827.jpg)
+
+
+
+
 
 
 

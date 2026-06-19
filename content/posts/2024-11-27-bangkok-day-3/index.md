@@ -1,7 +1,7 @@
 ---
 title: "Bangkok Day 3"
 date: 2024-11-27
-destination: "Thailand 2024"
+destination: ["Thailand 2024"]
 ---
 
 Bit of a lie in today to recover from the chaos of Khao San Road, Mel needed stodge so we headed for Street Fourth Burger restaurant for a spaghetti carbonara to keep her happy, I had one also in sympathy. Was nice but a bit sickening and instant regret afterwords bodily function wise. Mel then headed back to the room to sleep it off. It was then time for the pre booked river cruise after a 5KM walk in the sweltering heat and humidity of a Bangkok afternoon. Eventually made it and was so glad as it was a stunning evening. The buffet food and drink was delightful and the scenery was simply stunning. What a cracking city and skyline as the sun set on the horizon....photos don't do it justice. Walked the 5km back after for a couple of pints in KSR and then back home to sleep ready for the 7am start and flight to Chiang Mai. Bangkok has been sensational.
@@ -77,6 +77,10 @@ Bit of a lie in today to recover from the chaos of Khao San Road, Mel needed sto
 ![](images/20241125_1904021071877031992998509.jpg)
 
 ![](images/20241125_2008517582732856992299794.jpg)
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Day 27 - Santa Cruz, CA day 2"
 date: 2022-09-10
-destination: "USA 2022"
+destination: ["USA 2022"]
 ---
 
 Lie in today until 10:30....bono's. Walked along the Santa Cruz wharf to see the sea lions, always funny to watch...then headed back to do some "The Lost Boys" location spotting, saw quite a few scenes to replicate. Mel decided to go for a tattoo at the local tattooist whilst I sampled a few beers on the boardwalk and caught up with the blog, a lovely few hours whiled away...tattooist only day shut was Wednesday...of course it was Wednesday! Had a nachos and cheese and jalepenos and headed back along the boardwalk watching the volleyballers doing their stuff. Showered and met Mel at the "Vino by the Sea" on the Wharf, lovely place upstairs for people watching...lovely staff also, very friendly.  Headed to a bar called Asti for a couple, everywhere shutting down at 9pm as per so got in very late at a top rated place on TripAdvisor "Jack o 'Neill restaurant and lounge"....didnt realise it was exceptionally expensive but was too tiddly to care by this point. Plastic fantastic is free isn't it? A couple of pasta dishes, a bottle of white wine and $170 later we left to wander the mile home.
@@ -213,6 +213,10 @@ Lie in today until 10:30....bono's. Walked along the Santa Cruz wharf to see the
 ![](images/20220907_2204016632345892412236426.jpg)
 
 ![](images/20220907_2206265147053301382744688.jpg)
+
+
+
+
 
 
 

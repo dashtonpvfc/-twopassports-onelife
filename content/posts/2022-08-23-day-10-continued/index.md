@@ -1,7 +1,7 @@
 ---
 title: "Day 10 - Continued"
 date: 2022-08-23
-destination: "USA 2022"
+destination: ["USA 2022"]
 ---
 
 Assume there is a photo limit so this is the overflow :)
@@ -35,6 +35,10 @@ Assume there is a photo limit so this is the overflow :)
 ![](images/20220821_2208253897158382610694411.jpg)
 
 ![](images/20220821_2228164713573501601155408.jpg)
+
+
+
+
 
 
 

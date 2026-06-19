@@ -1,7 +1,7 @@
 ---
 title: "Krabi Old Town"
 date: 2024-12-19
-destination: "Thailand 2024"
+destination: ["Thailand 2024"]
 ---
 
 Woke on our last day on the beach to blazing sunshine and clear blue skies - first time we have unbroken sky since Chiang Mai in the North. Unbelievable. Had breakfast and booked Bolt for the 30 minute drive inland to the old town. Weather is unbelievable - the place looks completely different in sunlight. Oh well, try again very soon hopefully. Krabi Seabass hotel is absolutely beautiful to soften the blow. Chilled around the pool, swam, and had a couple of  Changs. Mel had a good sleep in the lounger. Walked into the old town early doors, lovely area along the river - the Thai's make a great effort for Christmas..puts the cesspit that is the UK currently to shame - in many ways. Saw a double rainbow and found an old craft beer joint with a random ale on tap which was very good - Mel had a chicken rice snack which was good. Then walked to a lovely quirky bar and met the owner and a bloke from Manchester who is just dossing there for 8 months to avoid going back to Didsbury. Really funny and genuine people! We then dug out an Italian restaurant where Mel had a carbonara and I had the spiciest pizza on the menu - family size naturally and covered it in chilli flakes and Tabasco sauce. Washed it down with a Hofbrau house German beer - it was all lovely. Walked back along the river and the bustling night market and was in bed at about 9:30 as we have to up at 6am for an early flight to Bangkok.
@@ -87,6 +87,10 @@ Woke on our last day on the beach to blazing sunshine and clear blue skies - fir
 ![](images/20241217_2058211934736788822981113.jpg)
 
 ![](images/20241217_2059395755983103329137357.jpg)
+
+
+
+
 
 
 

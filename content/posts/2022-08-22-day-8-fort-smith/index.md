@@ -1,7 +1,7 @@
 ---
 title: "Day 8 - Fort Smith"
 date: 2022-08-22
-destination: "USA 2022"
+destination: ["USA 2022"]
 ---
 
 5 hr drive from Memphis to Fort Smith, a former garrison town historically important during the frontier era. Weather mid 90's but tolerable, hotel Red Roof Inn Downtown.
@@ -21,6 +21,10 @@ Checked in 4pm, showered and out for 5pm headed to Bricktown Brewery about 3/4 m
 ![](images/20220819_2034069200852355534786013.jpg)
 
 ![](images/20220819_2038396259743412521250600.jpg)
+
+
+
+
 
 
 

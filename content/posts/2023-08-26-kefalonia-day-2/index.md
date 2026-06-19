@@ -1,7 +1,7 @@
 ---
 title: "Kefalonia Day 2"
 date: 2023-08-26
-destination: "Kefalonia 2023"
+destination: ["Kefalonia 2023"]
 ---
 
 Up at 9am, great sleep. Pool day today, breakfast included so had a cheese and ham toasties and Mel 2 boiled eggs. Towels down, book ready and chill. Only stopped for a Kefalonia spinach pie from the bakery in Skala Town - it was gorgeous! Wandered around the bars at night, started at Micheals bar, chatting to couple of other couples from Yorkshire who come to Skala every year. Started raining which was a bit of a relief in the heat. Wandered to Panarama bar for a couple, then BB's and finally Veto bar for the Chelsea vs Luton match. Had 3 pints of Mythos, half litre of red wine and a pork Gyros....undercharged at €16 which was a welcome bonus....of course, I corrected their error and paid the full price. Not.
@@ -33,6 +33,10 @@ Up at 9am, great sleep. Pool day today, breakfast included so had a cheese and h
 ![](images/20230825_2227094415096335332007778.jpg)
 
 ![](images/20230825_2242323011432479769962184.jpg)
+
+
+
+
 
 
 
