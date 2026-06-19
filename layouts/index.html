@@ -15,7 +15,7 @@
   <div class="container hero-content">
     <p class="hero-eyebrow">Latest adventure</p>
     <h1 class="hero-title"><a href="{{ $latest.Permalink }}">{{ $latest.Title }}</a></h1>
-    <p class="hero-meta">{{ $latest.Date.Format "January 2006" }}{{ with $latest.Params.destination }} &middot; {{ . }}{{ end }}</p>
+    <p class="hero-meta">{{ $latest.Date.Format "January 2006" }}{{ with $latest.Params.destination }} &middot; {{ index . 0 }}{{ end }}</p>
     <a href="{{ $latest.Permalink }}" class="hero-btn">Read the story</a>
   </div>
 </section>
