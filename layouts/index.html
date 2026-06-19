@@ -36,7 +36,7 @@
         {{ end }}
       </a>
       <div class="post-card-body">
-        {{ with .Params.destination }}<p class="post-card-destination">{{ . }}</p>{{ end }}
+        {{ with .Params.destination }}<p class="post-card-destination">{{ index . 0 }}</p>{{ end }}
         <h2 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p class="post-card-date">{{ .Date.Format "2 January 2006" }}</p>
         <p class="post-card-summary">{{ .Summary | truncate 120 }}</p>
