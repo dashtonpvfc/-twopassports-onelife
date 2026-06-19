@@ -31,7 +31,7 @@
         <img src="{{ .Params.image }}" alt="{{ .Title }}" class="post-card-img" loading="lazy">
         {{ else }}
         <div class="post-card-img post-card-img-placeholder">
-          <span>{{ with .Params.destination }}{{ . }}{{ else }}Travel{{ end }}</span>
+          <span>{{ with .Params.destination }}{{ index . 0 }}{{ else }}Travel{{ end }}</span>
         </div>
         {{ end }}
       </a>
