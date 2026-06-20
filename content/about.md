@@ -19,8 +19,6 @@ We came to long-haul travel later than some, but we don't think that's a bad thi
 
 So far our adventures have taken us to the sun-soaked islands of Kefalonia, the jaw-dropping landscapes of the USA — including the wide open spaces of Route 66, which left us both speechless — and the incredible chaos and beauty of Thailand. France has always had a special place in Danny's heart too, a love that started long before Mel came along!
 
-Croatia was our most recent adventure, and it certainly won't be the last.
-
 ## What you'll find here
 
 This blog is an honest record of our trips — the highlights, the disasters, the food we can't stop thinking about, and the places that made us want to come straight back. We're not influencers or travel writers. We're just two people from Cheshire who can't sit still.
