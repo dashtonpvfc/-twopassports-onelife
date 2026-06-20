@@ -5,19 +5,29 @@ date: ""
 
 ## Hello, we're Danny & Mel
 
-We're a couple in our mid-40s from the UK with a shared obsession: travel. We've been together for years, and somewhere along the way we realised that the thing we most wanted to spend our time and money on was seeing more of this world.
+We're a couple from Scholar Green in Cheshire, and we've been together since 2009. Between us we have five grown-up children — and the moment the last one flew the nest, we looked at each other and thought: right, it's our turn now.
 
-So that's what we do.
+So that's exactly what we did.
+
+## A lifelong obsession
+
+Danny has been hooked on travel since he was a boy — something about the idea of what lies beyond the horizon that never quite let go. Mel caught the bug somewhere along the way too, and now here we are, two passports and a long list of places we still want to see.
+
+We came to long-haul travel later than some, but we don't think that's a bad thing. We appreciate it more for the wait. And we've got plenty of time to make up for.
+
+## Where we've been
+
+So far our adventures have taken us to the sun-soaked islands of Kefalonia, the jaw-dropping landscapes of the USA — including the wide open spaces of Route 66, which left us both speechless — and the incredible chaos and beauty of Thailand. France has always had a special place in Danny's heart too, a love that started long before Mel came along!
+
+Croatia was our most recent adventure, and it certainly won't be the last.
 
 ## What you'll find here
 
-This blog is a record of our adventures — the big trips and the small ones, the smooth journeys and the chaotic ones. We write about where we went, what we ate, where we stayed, what surprised us, and what we'd do differently next time.
-
-We're not professional travellers or influencers. We book our own trips, pay our own way, and write about things honestly. If something was brilliant, we'll say so. If it was a disaster, we'll say that too.
+This blog is an honest record of our trips — the highlights, the disasters, the food we can't stop thinking about, and the places that made us want to come straight back. We're not influencers or travel writers. We're just two people from Cheshire who can't sit still.
 
 ## Get in touch
 
-We love hearing from other travellers. If you've got a question about somewhere we've been, or just want to say hello, you can reach us via the [contact page](/contact/).
+We'd love to hear from other travellers! Drop us a message via the [contact page](/contact/).
 
 *Happy travels,*
 
