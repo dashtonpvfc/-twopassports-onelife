@@ -1,61 +1,34 @@
 {{ define "main" }}
-
-{{ $posts := where .Site.RegularPages "Section" "posts" }}
-{{ $posts = $posts.ByDate.Reverse }}
-{{ $latest := index $posts 0 }}
-
-{{ if $latest }}
 <section class="hero">
-  {{ if $latest.Params.image }}
-  <div class="hero-bg" style="background-image: url('{{ $latest.Params.image }}')"></div>
-  {{ else }}
-  <div class="hero-bg hero-bg-fallback"></div>
-  {{ end }}
+  <div class="hero-bg" style="background-image: url('/hero.jpg')"></div>
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-    <p class="hero-eyebrow">Latest adventure</p>
-    <h1 class="hero-title"><a href="{{ $latest.Permalink }}">{{ $latest.Title }}</a></h1>
-    <p class="hero-meta">{{ $latest.Date.Format "January 2006" }}{{ with $latest.Params.destination }} &middot; {{ index . 0 }}{{ end }}</p>
-    <a href="{{ $latest.Permalink }}" class="hero-btn">Read the story</a>
+    <p class="hero-eyebrow">Welcome to</p>
+    <h1 class="hero-title">Two Passports, One Life</h1>
+    <p class="hero-subtitle">The world is big. We're working on it.</p>
+    <a href="/destinations/" class="hero-btn">Explore our destinations</a>
   </div>
 </section>
-{{ end }}
 
-<section class="posts-section container">
-  <h2 class="section-heading">All posts</h2>
+<section class="container" style="padding: 3rem 0;">
+  <h2 class="section-heading">Our Destinations</h2>
   <div class="posts-grid">
-    {{ range $posts }}
-    <article class="post-card">
-      <a href="{{ .Permalink }}" class="post-card-img-link">
-        {{ if .Params.image }}
-        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="post-card-img" loading="lazy">
+    {{ range where .Site.Pages "Type" "destinations" }}
+    {{ if .IsSection }}
+    <a href="{{ .Permalink }}" class="post-card">
+      <div class="post-card-img-link">
+        {{ with .Resources.GetMatch "cover.jpg" }}
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="post-card-img">
         {{ else }}
-        <div class="post-card-img post-card-img-placeholder">
-          <span>{{ with .Params.destination }}{{ index . 0 }}{{ else }}Travel{{ end }}</span>
-        </div>
+        <div class="post-card-img post-card-img-placeholder"><span>{{ .Title }}</span></div>
         {{ end }}
-      </a>
-      <div class="post-card-body">
-        {{ with .Params.destination }}<p class="post-card-destination">{{ index . 0 }}</p>{{ end }}
-        <h2 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <p class="post-card-date">{{ .Date.Format "2 January 2006" }}</p>
-        <p class="post-card-summary">{{ .Summary | truncate 120 }}</p>
-        <a href="{{ .Permalink }}" class="post-card-link">Read more &rarr;</a>
       </div>
-    </article>
+      <div class="post-card-body">
+        <h2 class="post-card-title">{{ .Title }}</h2>
+      </div>
+    </a>
+    {{ end }}
     {{ end }}
   </div>
 </section>
-
-<section class="about-strip container">
-  <div class="about-inner">
-    <div class="about-avatar">D+M</div>
-    <div class="about-text">
-      <p class="about-name">Danny &amp; Mel</p>
-      <p class="about-bio">A couple from the UK in our mid-40s, with two passports and one shared obsession: seeing as much of this world as we possibly can. Follow along for honest accounts of every adventure, every mishap, and every meal.</p>
-      <a href="/about/" class="about-link">More about us &rarr;</a>
-    </div>
-  </div>
-</section>
-
 {{ end }}
