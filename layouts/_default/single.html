@@ -6,14 +6,14 @@
     <div class="post-hero" style="background-image: url('{{ .Params.image }}')">
       <div class="post-hero-overlay"></div>
       <div class="container post-hero-content">
-        {{ with .Params.destination }}<p class="post-eyebrow">{{ . }}</p>{{ end }}
+        {{ with .Params.destination }}<p class="post-eyebrow">{{ if reflect.IsSlice . }}{{ index . 0 }}{{ else }}{{ . }}{{ end }}</p>{{ end }}
         <h1 class="post-title">{{ .Title }}</h1>
         <p class="post-meta">{{ .Date.Format "2 January 2006" }} &middot; {{ .ReadingTime }} min read</p>
       </div>
     </div>
     {{ else }}
     <div class="container post-header-text">
-      {{ with .Params.destination }}<p class="post-eyebrow">{{ . }}</p>{{ end }}
+      {{ with .Params.destination }}<p class="post-eyebrow">{{ if reflect.IsSlice . }}{{ index . 0 }}{{ else }}{{ . }}{{ end }}</p>{{ end }}
       <h1 class="post-title post-title-plain">{{ .Title }}</h1>
       {{ if not .Date.IsZero }}<p class="post-meta">{{ .Date.Format "2 January 2006" }} &middot; {{ .ReadingTime }} min read</p>{{ end }}
     </div>
