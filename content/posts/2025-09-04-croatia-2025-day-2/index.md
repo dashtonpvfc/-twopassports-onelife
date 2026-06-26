@@ -13,6 +13,8 @@ Woke around 8 for our first breakfast at the aparthotel Arancini Residence....wh
 
 Walked down to the nearest beach, grabbing a coffee on the way and a couple of padded beds as a towel wouldn't do as the beaches are not sand but more stoney. Along with a towel set us back 40 euros but hopefully last the full holiday. Settled on the beach and started reading 'Into the Wild' about that guy who headed to Alaska 'to find himself'...only lasted a couple of months and died after eating poison berries....that's why I avoid healthy stuff. Mel is reading 'Friends, lovers and that terrible thing' by Matthew Perry..that didn't end too well either.
 
+![](3.jpg)
+
 ![](4.jpg)
 
 ![](5.jpg)
@@ -30,3 +32,15 @@ This soon cleared up, so we were up and out for 6pm for the 4km walk to Tribunj,
 ![](9.jpg)
 
 ![](10.jpg)
+
+![](11.jpg)
+
+![](12.jpg)
+
+![](13.jpg)
+
+![](15.jpg)
+
+![](16.jpg)
+
+![](17.jpg)
