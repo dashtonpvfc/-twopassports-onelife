@@ -1,7 +1,7 @@
 ---
 title: "Croatia 2025 - Day 1"
 date: 2025-09-02
-destination: "Croatia 2025"
+destination: ["Croatia 2025"]
 image: "cover.jpg"
 ---
 
