@@ -2,161 +2,138 @@
 title: "Phi Phi Islands day 1"
 date: 2024-12-11
 destination: ["Thailand 2024"]
+image: "cover.jpg"
 ---
 
-Up at 9am for the Bolt to Rassada pier for the 10:30am crossing to the Phi Phi Islands. So excited! Always wanted to go here since watching The Beach with Leonardo Di Caprio. The ferry crossing took about 2 hours but was very comfortable and plenty of levels to move around, I had a sandwich which was bland and Mel had an egg sandwich but didn't eat it as she had "bad vibes" about it ahem. The crossing was 550 Baht each. Arrived early afternoon and met with the golden arches of McDonald's...I tutted loudly at this image of gluttony and  obesity reaching this beautiful far flung island in the middle of the Andaman sea. We fell into the "The Dubliner" Irish pub for a swift pint of Leo each and then headed to our home for the next 3 days - The Sunflower Boathouse. Amazingly quirky place, all made of wood in the shape of a boat (funnily enough) right next to the beach. We dropped our bags and went for a late lunch of Shrimp Pad Thai for me, noodles for Mel and a shared starter of spring rolls...all was fabulous! And a bottle of Leo to boot. Had a walk across the beach to witness an Ibiza Pool party! Music was about a 1000 decibels but the kids were getting down with it maan. Kept walking and picked a beach bat and a had a bottle of Leo each overlooking the bobbing long tail boats and the waves lapping at our feet. Bliss. Walked back to the Guesthouse and got ready, had a quick one in the beautiful garden before heading to the beach to watch the fire show...these guys are unbelievable! Some of it defied all logic, we had many cocktails, Long Island Ice Tea's for myself, and Mel had a few beers. The fire shows are on for hours so we stayed until the end. Mel went all tired so I went for a wander and had a cocktail whilst watching a bit of footy then ended up at the Muay Thai Stadium....these are some tough Thai's! Stumbled in at about 1am.
+Up at 9am for the Bolt to Rassada pier for the 10:30am crossing to the Phi Phi Islands. So excited! Always wanted to go here since watching The Beach with Leonardo Di Caprio. The ferry crossing took about 2 hours but was very comfortable and plenty of levels to move around, I had a sandwich which was bland and Mel had an egg sandwich but didn't eat it as she had "bad vibes" about it ahem. The crossing was 550 Baht each.
 
-![](images/20241208_2036447153732816639390827.jpg)
+![](phiphi%201%20(1).jpg)
 
-![](images/20241208_1033102291696722601218258.jpg)
+![](phiphi%201%20(2).jpg)
 
-![](images/20241208_1114051568756643593601415.jpg)
+![](phiphi%201%20(3).jpg)
 
-![](images/20241208_1116454310630071226340717.jpg)
+Arrived early afternoon and met with the golden arches of McDonald's...I tutted loudly at this image of gluttony and obesity reaching this beautiful far flung island in the middle of the Andaman sea. We fell into the "The Dubliner" Irish pub for a swift pint of Leo each and then headed to our home for the next 3 days - The Sunflower Boathouse.
 
-![](images/20241208_1116488734217553002805439.jpg)
+![](phiphi%201%20(4).jpg)
 
-![](images/20241208_1159032373849816311812913.jpg)
+![](phiphi%201%20(5).jpg)
 
-![](images/20241208_1241193508569302387246857.jpg)
+![](phiphi%201%20(6).jpg)
 
-![](images/20241208_132058528715401610170161.jpg)
+Amazingly quirky place, all made of wood in the shape of a boat (funnily enough) right next to the beach. We dropped our bags and went for a late lunch of Shrimp Pad Thai for me, noodles for Mel and a shared starter of spring rolls...all was fabulous! And a bottle of Leo to boot.
 
-![](images/20241208_1330448800669560688946652.jpg)
+![](phiphi%201%20(7).jpg)
 
-![](images/20241208_1326035687860094096442299.jpg)
+![](phiphi%201%20(8).jpg)
 
-![](images/20241208_1330417528789843776031396.jpg)
+![](phiphi%201%20(9).jpg)
 
-![](images/20241208_1347141209693654670115371.jpg)
+![](phiphi%201%20(10).jpg)
 
-![](images/20241208_1403371371543833749311953.jpg)
+Had a walk across the beach to witness an Ibiza Pool party! Music was about a 1000 decibels but the kids were getting down with it maan.
 
-![](images/20241208_1405364143319887771407690.jpg)
+![](phiphi%201%20(11).jpg)
 
-![](images/20241208_1405417256174491485583484.jpg)
+![](phiphi%201%20(12).jpg)
 
-![](images/20241208_1423115388739461883025527.jpg)
+![](phiphi%201%20(13).jpg)
 
-![](images/20241208_1423133559295982738574018.jpg)
+Kept walking and picked a beach bat and a had a bottle of Leo each overlooking the bobbing long tail boats and the waves lapping at our feet. Bliss.
 
-![](images/20241208_1423153578525755011637608.jpg)
+![](phiphi%201%20(14).jpg)
 
-![](images/20241208_1423196824479274302153500.jpg)
+![](phiphi%201%20(15).jpg)
 
-![](images/20241208_1423392502831693065705980.jpg)
+![](phiphi%201%20(16).jpg)
 
-![](images/20241208_142343674494401486331118.jpg)
+![](phiphi%201%20(17).jpg)
 
-![](images/20241208_1424006528556768149428341.jpg)
+Walked back to the Guesthouse and got ready, had a quick one in the beautiful garden before heading to the beach to watch the fire show...these guys are unbelievable!
 
-![](images/20241208_1425043585025559587618064.jpg)
+![](phiphi%201%20(18).jpg)
 
-![](images/20241208_1426063545452629840000821.jpg)
+![](phiphi%201%20(19).jpg)
 
-![](images/20241208_1426087031547416814382121.jpg)
+![](phiphi%201%20(20).jpg)
 
-![](images/20241208_1426507699190257801000729.jpg)
+![](phiphi%201%20(21).jpg)
 
-![](images/20241208_1451512049426378172922936.jpg)
+Some of it defied all logic, we had many cocktails, Long Island Ice Tea's for myself, and Mel had a few beers. The fire shows are on for hours so we stayed until the end.
 
-![](images/20241208_1500381200488232634683783.jpg)
+![](phiphi%201%20(22).jpg)
 
-![](images/20241208_1501091075150946647207274.jpg)
+![](phiphi%201%20(23).jpg)
 
-![](images/20241208_1506418654004620100213640.jpg)
+![](phiphi%201%20(24).jpg)
 
-![](images/20241208_1540174107693991375863703.jpg)
+![](phiphi%201%20(25).jpg)
 
-![](images/20241208_1540203261390128565469520.jpg)
+![](phiphi%201%20(26).jpg)
 
-![](images/img-20241208-wa00196445032592961616795.jpg)
+![](phiphi%201%20(28).jpg)
 
-![](images/20241208_170039444331578645670309.jpg)
+Mel went all tired so I went for a wander and had a cocktail whilst watching a bit of footy then ended up at the Muay Thai Stadium....these are some tough Thai's!
 
-![](images/20241208_1700428400350843870110169.jpg)
+![](phiphi%201%20(29).jpg)
 
-![](images/20241208_1700457769705551782481913.jpg)
+![](phiphi%201%20(30).jpg)
 
-![](images/20241208_1700492692402570474603726.jpg)
+![](phiphi%201%20(31).jpg)
 
-![](images/20241208_1700561637366604012466421.jpg)
+![](phiphi%201%20(32).jpg)
 
-![](images/20241208_1702521477693866977546893.jpg)
+![](phiphi%201%20(33).jpg)
 
-![](images/20241208_1704254331511759018444291.jpg)
+![](phiphi%201%20(34).jpg)
 
-![](images/20241208_1705495355161227451916322.jpg)
+![](phiphi%201%20(35).jpg)
 
-![](images/20241208_170552165140663911312227.jpg)
+Stumbled in at about 1am.
 
-![](images/20241208_1720166827685229440981773.jpg)
+![](phiphi%201%20(36).jpg)
 
-![](images/20241208_1720272287722091618716131.jpg)
+![](phiphi%201%20(37).jpg)
 
-![](images/20241208_173356736156089714784658.jpg)
+![](phiphi%201%20(38).jpg)
 
-![](images/20241208_1734064051549736877722847.jpg)
+![](phiphi%201%20(39).jpg)
 
-![](images/20241208_1734196905582398574912748.jpg)
+![](phiphi%201%20(40).jpg)
 
-![](images/20241208_1734295809247958625808748.jpg)
+![](phiphi%201%20(41).jpg)
 
-![](images/20241208_1758002921762890057885390.jpg)
+![](phiphi%201%20(42).jpg)
 
-![](images/20241208_1839195499553763153889592.jpg)
+![](phiphi%201%20(43).jpg)
 
-![](images/20241208_1839401028221785017497235.jpg)
+![](phiphi%201%20(44).jpg)
 
-![](images/20241208_1844017614731149508156361.jpg)
+![](phiphi%201%20(45).jpg)
 
-![](images/20241208_1850235417259386934192697.jpg)
+![](phiphi%201%20(46).jpg)
 
-![](images/20241208_1851281323543605446019142.jpg)
+![](phiphi%201%20(47).jpg)
 
-![](images/20241208_1929248203032315573909614.jpg)
+![](phiphi%201%20(48).jpg)
 
-![](images/20241208_2003227018923494451898630.jpg)
+![](phiphi%201%20(49).jpg)
 
-![](images/20241208_2004027846506905414835846.jpg)
+![](phiphi%201%20(50).jpg)
 
-![](images/20241208_2023023113800505963799362.jpg)
+![](phiphi%201%20(51).jpg)
 
-![](images/20241208_2025558988343753637067747.jpg)
+![](phiphi%201%20(52).jpg)
 
-![](images/20241208_2027255153577831909902269.jpg)
+![](phiphi%201%20(53).jpg)
 
-![](images/20241208_2033042332218527238830148.jpg)
+![](phiphi%201%20(54).jpg)
 
-![](images/20241208_2039081102537922245150.jpg)
+![](phiphi%201%20(55).jpg)
 
-![](images/20241208_2100437793040579589739744.jpg)
+![](phiphi%201%20(56).jpg)
 
-![](images/20241208_2039116231385875999012579.jpg)
-
-![](images/20241208_2100456817009015074395326.jpg)
-
-![](images/20241208_2100471045950949422540203.jpg)
-
-![](images/20241208_2109501380913511239994845.jpg)
-
-![](images/20241208_2109335415721763384791439.jpg)
-
-![](images/20241208_2109542593910242877071082.jpg)
-
-![](images/20241208_2110075558531373282497910.jpg)
-
-![](images/20241208_2116298858905736261209335.jpg)
-
-![](images/20241208_214426457719875946853411.jpg)
-
-![](images/20241208_2321081977263904281675468.jpg)
-
-![](images/20241208_2320497208295992161581336.jpg)
-
-![](images/20241208_232118943178634631053069.jpg)
-
-![](images/20241208_2322461233586813085273827.jpg)
+![](phiphi%201%20(57).jpg)
 
 
 
