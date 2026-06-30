@@ -2,73 +2,64 @@
 title: "Ao Nang Krabi day 1"
 date: 2024-12-15
 destination: ["Thailand 2024"]
+image: "cover.jpg"
 ---
 
-Long tail boat transfer to Ao Nang today - about 3km and 10 minutes - 100 Baht each. Weather still overcast with forecast for heavy rain....typical. Drop off point on the beach was right next to our hotel but we were a bit early so had a flat white for me and some healthy smoothie concoction for Miss Dizzy at the cafe next door - both were lovely. Checked in early no problem at "Vacation Village Phra Nang Inn". Lovely place if a little dated...in fact I have not seen artex that thick since Surrey Road. Other than that the room is fine, safe, fridge, good air con, mini bar etc. Chilled for an hour and then the heavens opened. And I mean OPENED. Most we could do was to go next door for another coffee until it cleared which was a couple of hours. Walked along the front for a bit whilst it was blowing a gale...felt a bit like we were on Blackpool beach in November. Mel still having dizzy spells so went for a lie down so I went to the cash machine as we finally ran out of dough after 20 odd days. Drew 20000 Baht to last until the end of the holiday (hopefully). Had a Beef Panang curry and rice and a Singha for a late lunch, had a wander and a couple of beers at random places and met Mel who fancied a pizza so we went to "Spaghetti" restaurant on the main drag...expensive at 360 Baht but looked good and she said it tasted nice. Went to a couple of bars for cocktails for me and mocktails for Mellie. Ended up watching live music in Boogie Bar, walked Mel to the hotel, and I went for a curry at "Tandoori Knight". Beautiful beef madras, poppadoms, garlic naan, rice....like being at Rozey! It was divine and really filling. Rolled myself down the hill to the hotel and bed.
+Long tail boat transfer to Ao Nang today - about 3km and 10 minutes - 100 Baht each. Weather still overcast with forecast for heavy rain....typical. Drop off point on the beach was right next to our hotel but we were a bit early so had a flat white for me and some healthy smoothie concoction for Miss Dizzy at the cafe next door - both were lovely.
 
-![](images/20241213_1120314180035513013545244.jpg)
+![](20241213_11203141800355130135452.jpg)
 
-![](images/20241213_1141328843303635331155649.jpg)
+![](20241213_11413288433036353311556.jpg)
 
-![](images/20241213_1225314543647553882585795.jpg)
+Checked in early no problem at "Vacation Village Phra Nang Inn". Lovely place if a little dated...in fact I have not seen artex that thick since Surrey Road. Other than that the room is fine, safe, fridge, good air con, mini bar etc.
 
-![](images/20241213_1225342950053135870589389.jpg)
+![](20241213_12253145436475538825857.jpg)
 
-![](images/20241213_1225412784700957150169933.jpg)
+![](20241213_12253429500531358705893.jpg)
 
-![](images/20241213_1312282142220066451656884.jpg)
+Chilled for an hour and then the heavens opened. And I mean OPENED. Most we could do was to go next door for another coffee until it cleared which was a couple of hours.
 
-![](images/20241213_1345373640405531803896302.jpg)
+![](20241213_13453736404055318038963.jpg)
 
-![](images/20241213_1350094024294487718931866.jpg)
+![](20241213_13500940242944877189318.jpg)
 
-![](images/20241213_1350129038643754335427741.jpg)
+Walked along the front for a bit whilst it was blowing a gale...felt a bit like we were on Blackpool beach in November. Mel still having dizzy spells so went for a lie down so I went to the cash machine as we finally ran out of dough after 20 odd days. Drew 20000 Baht to last until the end of the holiday (hopefully).
 
-![](images/20241213_1351584965088644278883437.jpg)
+![](20241213_14363445184744317441778.jpg)
 
-![](images/20241213_1407143586059975389519615.jpg)
+![](20241213_14403430895372950972107.jpg)
 
-![](images/20241213_1436344518474431744177821.jpg)
+Had a Beef Panang curry and rice and a Singha for a late lunch, had a wander and a couple of beers at random places and met Mel who fancied a pizza so we went to "Spaghetti" restaurant on the main drag...expensive at 360 Baht but looked good and she said it tasted nice.
 
-![](images/20241213_1440343089537295097210784.jpg)
+![](20241213_16010241952389660861873.jpg)
 
-![](images/20241213_1601024195238966086187322.jpg)
+![](20241213_16463233705148467743637.jpg)
 
-![](images/20241213_164632337051484677436372.jpg)
+![](20241213_16495514270911887301593.jpg)
 
-![](images/20241213_1649528830364134727457386.jpg)
+Went to a couple of bars for cocktails for me and mocktails for Mellie. Ended up watching live music in Boogie Bar, walked Mel to the hotel, and I went for a curry at "Tandoori Knight".
 
-![](images/20241213_1649551427091188730159334.jpg)
+![](20241213_16530077724356041033157.jpg)
 
-![](images/20241213_1650071295589065202305324.jpg)
+![](20241213_16561757688271428292244.jpg)
 
-![](images/20241213_165300777243560410331571.jpg)
+![](20241213_18224524040461746566166.jpg)
 
-![](images/20241213_1656175768827142829224491.jpg)
+Beautiful beef madras, poppadoms, garlic naan, rice....like being at Rozey! It was divine and really filling. Rolled myself down the hill to the hotel and bed.
 
-![](images/20241213_1821223685568461806581782.jpg)
+![](20241213_18465111612326624222207.jpg)
 
-![](images/20241213_1822452404046174656616678.jpg)
+![](20241213_19224243954906622920883.jpg)
 
-![](images/20241213_1846511161232662422220730.jpg)
+![](20241213_19254717940091890288363.jpg)
 
-![](images/20241213_1922424395490662292088382.jpg)
+![](20241213_19255867658107341594438.jpg)
 
-![](images/20241213_192547179400901890288363.jpg)
+![](20241213_20384011736640266330998.jpg)
 
-![](images/20241213_1925586765810734159443878.jpg)
+![](20241213_20521025883931412977080.jpg)
 
-![](images/20241213_2038401173664026633099804.jpg)
-
-![](images/20241213_2052102588393141297708011.jpg)
-
-![](images/20241213_2323566697845786408999362.jpg)
-
-![](images/20241213_2331182096946595182381803.jpg)
-
-![](images/20241213_2347371434853376245044365.jpg)
-
-![](images/20241213_2350291357503593842612230.jpg)
+![](20241213_23502913575035938426122.jpg)
 
 
 
