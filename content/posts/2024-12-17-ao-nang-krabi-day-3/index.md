@@ -1,94 +1,83 @@
 ---
 title: "Ao Nang Krabi day 3"
-date: 2024-12-17
+date: 2024-12-18
 destination: ["Thailand 2024"]
+image: "cover.jpg"
 ---
 
-Just about made breakfast today at 9:45....not much left, but enough to utilise the Egg Station....omelette and toast with a side of cauliflower cheese and some chicken sausage...yum yum. Mel had fried eggs. We both went for a long walk as weather is pretty cac again to be honest. Beaches are empty. Stopped for coffee near Ao Nang night market area and then walked to a street vendor and I had a Shrimp Pad Thai and Mel had Chicken cashew with rice. Both were lovely. Went back to hotel so sleepy Mel could have a kip and I read and swam at the hotel pool. Very relaxing. Headed out around 6pm - gorgeous sunset tonight, really stunning. Took loads of photos and wandered to the Ao Nang night market....wow! I have never seen so much food variety! Grabbed a table in the square for the live music and the fire show, ordered a litre of Leo and both went to fetch some fodder. I had chicken and pork on a stick for 100B and Mel grabbed some spiral potato things with cheese and garlic and some cheese balls, then some churros in chocolate. She also had spring rolls on the way. About 10pm started to head back as the Manchester derby kicked off at 11:30pm. Heard live music eminating from Full Moon bar so ran in as I was desperate for the toilet. So glad we did...what a great night! The band and singer in particular were absolutely outstanding. Rock classics galore and he took AC/DC front man Brian Johnson off to a tee. Footy was on in one corner and the band directly in front. We stayed until nearly 2am, had a few photos with the front man - tipped him 500 baht for a great performance (I must have been pished) then we crawled home.
+Just about made breakfast today at 9:45....not much left, but enough to utilise the Egg Station....omelette and toast with a side of cauliflower cheese and some chicken sausage...yum yum. Mel had fried eggs.
 
-![](images/20241215_1442193604371286167276872.jpg)
+![](aonang%20d3%20(1).jpg)
 
-![](images/20241215_1453135741538770320827622.jpg)
+![](aonang%20d3%20(2).jpg)
 
-![](images/20241215_1505224479074408519626342.jpg)
+We both went for a long walk as weather is pretty cac again to be honest. Beaches are empty. Stopped for coffee near Ao Nang night market area and then walked to a street vendor and I had a Shrimp Pad Thai and Mel had Chicken cashew with rice. Both were lovely.
 
-![](images/20241215_1538143333743750967443164.jpg)
+![](aonang%20d3%20(3).jpg)
 
-![](images/20241215_1550368057441515566063870.jpg)
+![](aonang%20d3%20(4).jpg)
 
-![](images/20241215_1645507781781992833436743.jpg)
+![](aonang%20d3%20(5).jpg)
 
-![](images/img-20241215-wa00054581014870202012549.jpeg)
+Went back to hotel so sleepy Mel could have a kip and I read and swam at the hotel pool. Very relaxing.
 
-![](images/20241215_1838533590264965146348272.jpg)
+![](aonang%20d3%20(6).jpg)
 
-![](images/20241215_1839388378427434806447953.jpg)
+![](aonang%20d3%20(7).jpg)
 
-![](images/20241215_1839513710112174960612686.jpg)
+Headed out around 6pm - gorgeous sunset tonight, really stunning. Took loads of photos and wandered to the Ao Nang night market....wow! I have never seen so much food variety!
 
-![](images/20241215_1839541413445634631174436.jpg)
+![](aonang%20d3%20(8).jpg)
 
-![](images/20241215_1840041321571790849133885.jpg)
+![](aonang%20d3%20(9).jpg)
 
-![](images/20241215_1844155157746099861013019.jpg)
+![](aonang%20d3%20(10).jpg)
 
-![](images/20241215_1845267493014367204358605.jpg)
+![](aonang%20d3%20(11).jpg)
 
-![](images/20241215_1845348436315272756652533.jpg)
+Grabbed a table in the square for the live music and the fire show, ordered a litre of Leo and both went to fetch some fodder. I had chicken and pork on a stick for 100B and Mel grabbed some spiral potato things with cheese and garlic and some cheese balls, then some churros in chocolate. She also had spring rolls on the way.
 
-![](images/20241215_1845423323283566609749743.jpg)
+![](aonang%20d3%20(12).jpg)
 
-![](images/20241215_1845467973522493184613792.jpg)
+![](aonang%20d3%20(13).jpg)
 
-![](images/20241215_1846254037510356892790144.jpg)
+![](aonang%20d3%20(14).jpg)
 
-![](images/20241215_1849107978143032299638969.jpg)
+![](aonang%20d3%20(15).jpg)
 
-![](images/20241215_1850554275101943433636734.jpg)
+About 10pm started to head back as the Manchester derby kicked off at 11:30pm. Heard live music eminating from Full Moon bar so ran in as I was desperate for the toilet. So glad we did...what a great night! The band and singer in particular were absolutely outstanding. Rock classics galore and he took AC/DC front man Brian Johnson off to a tee.
 
-![](images/20241215_1854246250261817690950023.jpg)
+![](aonang%20d3%20(16).jpg)
 
-![](images/20241215_1904133605660145925058883.jpg)
+![](aonang%20d3%20(17).jpg)
 
-![](images/20241215_1929062202923421747713144.jpg)
+![](aonang%20d3%20(18).jpg)
 
-![](images/20241215_200659109558774844185203.jpg)
+![](aonang%20d3%20(19).jpg)
 
-![](images/20241215_2008435171971917431351920.jpg)
+Footy was on in one corner and the band directly in front. We stayed until nearly 2am, had a few photos with the front man - tipped him 500 baht for a great performance (I must have been pished) then we crawled home.
 
-![](images/20241215_201505263520718891989900.jpg)
+![](aonang%20d3%20(20).jpg)
 
-![](images/20241215_2026576733966594529678478.jpg)
+![](aonang%20d3%20(21).jpg)
 
-![](images/20241215_2149262333389215835544837.jpg)
+![](aonang%20d3%20(22).jpg)
 
-![](images/20241215_2150591820498552436220531.jpg)
+![](aonang%20d3%20(23).jpg)
 
-![](images/20241215_2151038655344872727894889.jpg)
+![](aonang%20d3%20(24).jpg)
 
-![](images/20241215_222629224883630493237202.jpg)
+![](aonang%20d3%20(25).jpg)
 
-![](images/20241215_2228023546872994341724088.jpg)
+![](aonang%20d3%20(26).jpg)
 
-![](images/20241215_2230225678616299630647791.jpg)
+![](aonang%20d3%20(27).jpg)
 
-![](images/20241215_2336528925114846831098663.jpg)
+![](aonang%20d3%20(28).jpg)
 
-![](images/20241215_2336568635386491236795704.jpg)
+![](aonang%20d3%20(29).jpg)
 
-![](images/20241216_0044207717342715829985994.jpg)
-
-![](images/20241216_0051147115862258916043700.jpg)
-
-![](images/20241216_0137411259312385279955693.jpg)
-
-![](images/20241216_0137443939336700802466933.jpg)
-
-![](images/20241216_0143181426013698927606472.jpg)
-
-![](images/20241216_0144368162268058614153699.jpg)
-
-![](images/20241216_0151573578166107549535572.jpg)
+![](aonang%20d3%20(30).jpg)
 
 
 
