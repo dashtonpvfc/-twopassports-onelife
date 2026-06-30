@@ -2,6 +2,7 @@
 title: "Chiang Mai day 2"
 date: 2024-11-29
 destination: ["Thailand 2024"]
+image: "cover.jpg"
 ---
 
 4:30am start for the pick up for the spiritual sunrise visit to Wat Phra That Doi Suthep, Wat Pha Lat, Wat Umong. A truly memorable day in every aspect from seeing the monks perform their ritualistic chanting, giving them gifts and seeing the sunrise over the Chiang Mai mountains....so glad we did it, right down to having beef fried rice for breakfast at 7am....as you do. After this, Mel went back to the room for her afternoon sleep and I went for a wander around the old town. Chiang Mai is an incredible city of 1 million people but has a very hippie, laid back vibe with hundreds of coffee shops, massage centres, spas, and cannabis shops. Food is being cooked on every spare foot of land and the sights and smells are something to behold. I stopped at a small restaurant called Alice's Kitchen for lunch - Khao Soi and a Chang beer - all for the princely sum of £2.60! Had a wander around the old town then settled on a Chang at the hotel before waking up sleeping beauty. At night walked into the very busy area outside of the old town to "The Red Lion" as Mel wanted a  guinness and some cheesy chips....when in Rome. We then walked through one of the massive food markets and tried many new foods to add to the list - I forgot the name of many of them. We were then so so over tired from being up so early that we went bed about 9pm....hardcore.
