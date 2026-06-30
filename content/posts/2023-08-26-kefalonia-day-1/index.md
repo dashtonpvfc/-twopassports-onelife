@@ -2,6 +2,7 @@
 title: "Kefalonia Day 1"
 date: 2023-08-26
 destination: ["Kefalonia 2023"]
+image: "cover.jpg"
 ---
 
 2am start for a 6am flight, car parking transfer took longer than expected, then bag got pulled for deep relief cream, added another hour, no time for a drink to calm Mel's already fragile nerves, then an hour delay. Transfer on the hottest, shortest of leg room coach for an hour and a half added to the crankiness. Then shown to our room....and it wasn't cleaned..hurried to the bar for a free pint of Mythos, Yamas! Marianna apartments are lovely, air con extra at 7 euros a day, but essential. Can't take it off the key ring either so only on when in the room. Had a few beers and Mel a vodka and coke, showered and hit the town about 5pm. Boiling hot. Sweat dripping from us. Couple of bars and a long island ice tea and a mocktail for Mel (she's not drinking anymore). Double shotgun kebab gyros for a fiver and bed for 9pm.....hardcore!
