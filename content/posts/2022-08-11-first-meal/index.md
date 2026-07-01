@@ -2,6 +2,7 @@
 title: "First meal"
 date: 2022-08-11
 destination: ["USA 2022"]
+image: "cover.jpg"
 ---
 
 ![](images/20220811_1936438032189791729864630.jpg)
