@@ -2,6 +2,7 @@
 title: "Room 1...boiling sweat box"
 date: 2022-08-11
 destination: ["USA 2022"]
+image: "cover.jpg"
 tags: 
   - "sweatbox"
   - "rough"
