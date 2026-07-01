@@ -2,6 +2,7 @@
 title: "Day 2 Chicago AM"
 date: 2022-08-14
 destination: ["USA 2022"]
+image: "cover.jpg"
 tags: 
   - "lou-mitchells"
 ---
