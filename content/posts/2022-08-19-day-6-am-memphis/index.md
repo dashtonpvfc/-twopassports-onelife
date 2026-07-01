@@ -2,6 +2,7 @@
 title: "Day 6 AM - Memphis"
 date: 2022-08-19
 destination: ["USA 2022"]
+image: "cover.jpg"
 ---
 
 Travelled to National Civil Rights Museum..amazing experience to see the struggle of racism throughout the US and also to visit the Lorraine Motel where Martin Luther King Jr was assassinated. A very powerful and moving experience.
