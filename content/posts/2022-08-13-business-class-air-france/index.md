@@ -2,6 +2,7 @@
 title: "Business class Air France"
 date: 2022-08-13
 destination: ["USA 2022"]
+image: "cover.jpg"
 ---
 
 ![](images/20220812_131803380914434000729957.jpg)
