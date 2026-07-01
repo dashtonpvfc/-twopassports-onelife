@@ -2,6 +2,7 @@
 title: "Day 5 - Travel to Nashville"
 date: 2022-08-17
 destination: ["USA 2022"]
+image: "cover.jpg"
 ---
 
 Picked up the hire car, a Nissan Rogue Sport - mini SUV thing...very nice, better than expected!
