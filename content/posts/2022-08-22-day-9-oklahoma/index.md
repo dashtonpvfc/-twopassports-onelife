@@ -1,6 +1,6 @@
 ---
 title: "Day 9 - Oklahoma"
-date: 2022-08-22
+date: 2022-08-20
 destination: ["USA 2022"]
 image: "cover.jpg"
 ---
