@@ -1,6 +1,6 @@
 ---
 title: "Kefalonia - Day 10"
-date: 2023-09-03
+date: 2023-09-05
 destination: ["Kefalonia 2023"]
 image: "cover.jpg"
 ---
