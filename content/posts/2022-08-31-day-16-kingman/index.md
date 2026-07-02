@@ -1,6 +1,6 @@
 ---
 title: "Day 16 - Kingman"
-date: 2022-08-31
+date: 2022-08-28
 destination: ["USA 2022"]
 image: "cover.jpg"
 ---
