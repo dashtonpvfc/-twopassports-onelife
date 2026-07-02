@@ -2,6 +2,7 @@
 title: "Day 10 - Continued"
 date: 2022-08-23
 destination: ["USA 2022"]
+image: "cover.jpg"
 ---
 
 Assume there is a photo limit so this is the overflow :)
