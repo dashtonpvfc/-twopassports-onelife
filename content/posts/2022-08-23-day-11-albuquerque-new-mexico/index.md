@@ -2,6 +2,7 @@
 title: "Day 11 - Albuquerque, New Mexico"
 date: 2022-08-23
 destination: ["USA 2022"]
+image: "cover.jpg"
 ---
 
 Busy day ahead, Mel still laid up so struggle to get going so didn't leave the Airbnb until 11am. Weather warming up VERY slowly - still barely 21 degrees. First stop was fuel station to fill up, then head to Tucumcari for the most authentic route 66 diner - Watson's BBQ. We both had brisket salad with unlimited cold tea and lemonade, great place and great characters! We also hit the midpoint of Route 66 and the topography is definitely starting to become more dramatic throughout New Mexico
