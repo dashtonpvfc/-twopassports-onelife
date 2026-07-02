@@ -1,5 +1,5 @@
 ---
-title: "Riding tbe Blue line"
+title: "Riding the Blue line"
 date: 2022-08-13
 destination: ["USA 2022"]
 image: "cover.jpg"
