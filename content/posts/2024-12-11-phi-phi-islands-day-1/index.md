@@ -1,6 +1,6 @@
 ---
 title: "Phi Phi Islands day 1"
-date: 2024-12-11
+date: 2024-12-09
 destination: ["Thailand 2024"]
 image: "cover.jpg"
 ---
