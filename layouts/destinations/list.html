@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container list-page">
+  <h1 class="list-title">{{ .Title }}</h1>
+  <div class="posts-grid">
+    {{ range .Sections }}
+    <a href="{{ .Permalink }}" class="post-card">
+      <div class="post-card-img-link">
+        {{ if .Params.image }}
+        <img src="{{ .Permalink }}{{ .Params.image }}" alt="{{ .Title }}" class="post-card-img">
+        {{ else }}
+        <div class="post-card-img post-card-img-placeholder"><span>{{ .Title }}</span></div>
+        {{ end }}
+      </div>
+      <div class="post-card-body"><h2 class="post-card-title">{{ .Title }}</h2></div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
