@@ -12,7 +12,7 @@
 <section class="container" style="padding: 3rem 0;">
   <h2 class="section-heading">Our Destinations</h2>
   <div class="posts-grid">
-    {{ range (site.GetPage "/destinations").Sections.ByDate.Reverse }}
+   {{ range (site.GetPage "/destinations").Pages.ByDate.Reverse }}
     <a href="{{ .RelPermalink }}" class="post-card">
       <div class="post-card-img-link">
         <img src="{{ .RelPermalink }}cover.jpg" alt="{{ .Title }}" class="post-card-img">
