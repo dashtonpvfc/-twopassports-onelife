@@ -1,3 +1,4 @@
 ---
 title: "Kefalonia 2023"
+date: 2023-08-01
 ---
