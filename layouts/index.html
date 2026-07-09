@@ -12,42 +12,14 @@
 <section class="container" style="padding: 3rem 0;">
   <h2 class="section-heading">Our Destinations</h2>
   <div class="posts-grid">
-   <a href="/destinations/scotland-nc500-2026/" class="post-card">
+    {{ range (site.GetPage "/destinations").Sections.ByDate.Reverse }}
+    <a href="{{ .RelPermalink }}" class="post-card">
       <div class="post-card-img-link">
-        <img src="/destinations/scotland-nc500-2026/cover.jpg" alt="Scotland NC500 2026" class="post-card-img">
+        <img src="{{ .RelPermalink }}cover.jpg" alt="{{ .Title }}" class="post-card-img">
       </div>
-      <div class="post-card-body"><h2 class="post-card-title">Scotland NC500 2026</h2></div>
+      <div class="post-card-body"><h2 class="post-card-title">{{ .Title }}</h2></div>
     </a>
-    <a href="/destinations/belfast-2026/" class="post-card">
-      <div class="post-card-img-link">
-        <img src="/destinations/belfast-2026/cover.jpg" alt="Belfast 2026" class="post-card-img">
-      </div>
-      <div class="post-card-body"><h2 class="post-card-title">Belfast 2026</h2></div>
-    </a>
-    <a href="/destinations/croatia-2025/" class="post-card">
-      <div class="post-card-img-link">
-        <img src="/destinations/croatia-2025/cover.jpg" alt="Croatia 2025" class="post-card-img">
-      </div>
-      <div class="post-card-body"><h2 class="post-card-title">Croatia 2025</h2></div>
-    </a>
-    <a href="/destinations/thailand-2024/" class="post-card">
-      <div class="post-card-img-link">
-        <img src="/destinations/thailand-2024/cover.jpg" alt="Thailand 2024" class="post-card-img">
-      </div>
-      <div class="post-card-body"><h2 class="post-card-title">Thailand 2024</h2></div>
-    </a>
-    <a href="/destinations/kefalonia-2023/" class="post-card">
-      <div class="post-card-img-link">
-        <img src="/destinations/kefalonia-2023/cover.jpg" alt="Kefalonia 2023" class="post-card-img">
-      </div>
-      <div class="post-card-body"><h2 class="post-card-title">Kefalonia 2023</h2></div>
-    </a>
-    <a href="/destinations/usa-2022/" class="post-card">
-      <div class="post-card-img-link">
-        <img src="/destinations/usa-2022/cover.jpg" alt="USA 2022" class="post-card-img">
-      </div>
-      <div class="post-card-body"><h2 class="post-card-title">USA 2022</h2></div>
-    </a>
+    {{ end }}
   </div>
 </section>
 {{ end }}
