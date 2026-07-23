@@ -9,7 +9,12 @@ We woke after a peaceful night at The Outgate Inn, ready for one final gentle de
 
 A twenty‑minute drive brought us into Bowness‑on‑Windermere, already bustling with tourists weaving between shops, cafés and boat tours. We parked in the main car park and made a beeline for The Old Pump House café. It turned out to be an excellent choice: good coffee, friendly service, and — crucially — facilities to freshen up. Teeth cleaned, faces washed, and spirits lifted, we embraced the simple, back‑to‑basics rituals that make life on the road oddly satisfying.
 
+![Bowness-on-Windermere](20260531_103342.jpg)
+![The Old Pump House café](20260531_103821.jpg)
+
 We wandered through the local market afterwards, browsing homeware stalls and soaking up the lively atmosphere before returning to the van for the final leg. Compared to the epic drives of the previous days, the two‑and‑a‑half‑hour journey home felt almost effortless.
+
+![Browsing the market at Windermere](20260531_105831.jpg)
 
 By 2pm, we rolled onto the driveway after a trouble‑free run, the NC500 officially complete.
 
