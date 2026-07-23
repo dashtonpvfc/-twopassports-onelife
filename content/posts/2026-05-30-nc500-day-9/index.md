@@ -9,10 +9,23 @@ With the NC500 officially complete, we woke with that familiar post‑adventure 
 
 We headed down through Fort William and into Glencoe, a route that never fails to impress. The mountains rose sharply on either side, their slopes shifting between sunlight and shadow as we wound through the valley. We paused in Glencoe village for a coffee, though Mel wasn't overly enamoured with the café — she declared it "like a garden centre," overpriced, full of doddering elderly patrons, and smelling strongly of bleach. I pointed out she wasn't far off joining them. She settled for a tuna mayonnaise sandwich, which she naturally found disappointing, while the coffee itself was excellent. I made a cheese and ham toastie in the van, and we pressed on, refuelled and ready for the long haul.
 
+![Coffee stop in Glencoe village](20260530_121015.jpg)
+
 After topping up the diesel tank once more, we committed to the final stretch — no more stops until Ambleside. Over eight hours later, we rolled into the car park of The Outgate Inn, weary but relieved. A quick freshen‑up in the van and we headed inside.
+
+![Arriving at The Outgate Inn, Ambleside](20260530_193530.jpg)
+![Weary but relieved after the long drive](20260530_193534.jpg)
 
 The pub itself was charming, though being a Robinsons establishment meant the beer selection wasn't exactly thrilling. I had a pint of Unicorn in the slightly unkempt beer garden, enjoying the last of the evening sun before retreating indoors for dinner. I opted for a pizza, while Mel went for pie and mash — both hearty and satisfying after such a long day. We shared a quick glass of white wine, then took a short walk to shake off the road weariness.
 
+![A pint of Unicorn in the beer garden](20260530_200618.jpg)
+![Pizza and pie and mash for dinner](20260530_203741.jpg)
+![Dinner at The Outgate Inn](20260530_203809.jpg)
+![A glass of white wine](20260530_205443.jpg)
+
 By 9:30pm we were back in the van. With no TV signal available, we resorted to a bit of YouTube on the phone before finally calling it a night.
+
+![A short walk after dinner](20260530_210126.jpg)
+![Back in the van for the night](20260530_210701.jpg)
 
 A long, transitional day — not glamorous, not dramatic, but a gentle descent from the wildness of the Highlands back toward everyday life. The NC500 was behind us, but the sense of achievement lingered.
