@@ -9,9 +9,23 @@ We were up and about by 9am, ready to continue our journey west along Scotland's
 
 Our first destination was Dunnet Head, the true northernmost point of mainland Britain. While many people assume John O'Groats holds that title, it is actually Dunnet Head that sits slightly further north. As we arrived, the landscape was wrapped in a blanket of mist and low cloud, creating an almost eerie atmosphere. The lighthouse emerged ghost-like from the fog while the cliffs disappeared into the grey beyond. Despite the moody conditions, it was a truly spectacular place. The towering cliffs provided perfect nesting sites for seabirds, and we were delighted to spot another puffin among the crowds of wildlife clinging to the rocky ledges below.
 
+![Dunnet Head, the true northernmost point of mainland Britain](20260526_104533.jpg)
+![The lighthouse emerging from the fog](20260526_104711.jpg)
+![Mist and low cloud over the cliffs](20260526_111657.jpg)
+![Dunnet Head lighthouse](20260526_111659.jpg)
+![Seabirds nesting on the cliffs](20260526_111707.jpg)
+![Another puffin spotted at Dunnet Head](20260526_111803.jpg)
+
 From here, the roads felt even more remote. The villages became smaller, the traffic almost disappeared, and the landscape opened into vast rolling moorland, rugged coastline and endless skies. This was the wild north coast we had imagined when planning the trip.
 
+![The remote road west from Dunnet Head](20260526_114257.jpg)
+![Vast rolling moorland](20260526_114503.jpg)
+
 Our next stop was Thurso, one of the largest towns on the northern coastline. After the remote stretches of road, it felt positively bustling. We took the opportunity to grab a coffee and something to eat from Jamieson's Bakery, which turned out to be an excellent choice. Sitting outside with a gorgeous pie and a freshly brewed coffee, we enjoyed watching the world go by. If you're passing through Thurso on the NC500, Jamieson's is well worth a visit.
+
+![Arriving in Thurso](20260526_120602.jpg)
+![Jamieson's Bakery](20260526_122053.jpg)
+![Coffee and a pie outside Jamieson's](20260526_122140.jpg)
 
 Back on the road, we made our way to what would become one of the absolute highlights of the day: Strathy Beach.
 
@@ -21,14 +35,62 @@ Golden sand stretched out before us, framed by rugged rocks and crystal-clear wa
 
 Naturally, the drone was launched, and the aerial footage was every bit as impressive as we had hoped. From above, the contrast between the golden beach, turquoise water and dramatic coastline looked absolutely stunning. Without question, Strathy Beach has earned a place in my personal top five beaches anywhere in the world.
 
+![On the road to Strathy](20260526_132250.jpg)
+![Approaching Strathy Beach](20260526_132316.jpg)
+![First glimpse of Strathy Beach](20260526_132320.jpg)
+![Golden sand at Strathy Beach](20260526_134505.jpg)
+![Crystal-clear water at Strathy](20260526_134508.jpg)
+![One of the best beaches either of us has visited](20260526_134520.jpg)
+![Rugged rocks framing the beach](20260526_134542.jpg)
+![Blue skies over Strathy Beach](20260526_134549.jpg)
+![The tranquillity of Strathy Beach](20260526_134604.jpg)
+![Launching the drone at Strathy](20260526_134736.jpg)
+![Aerial views over Strathy Beach](20260526_134825.jpg)
+![The contrast of golden sand and turquoise water](20260526_135227.jpg)
+![Strathy Beach from above](20260526_135337.jpg)
+![A top five beach in the world](20260526_135701.jpg)
+![Still soaking it all in at Strathy](20260526_140517.jpg)
+
 Eventually, we dragged ourselves away and continued west towards our overnight stop at Craigdu Campsite near Bettyhill. We had booked it somewhat reluctantly after finding that many of the other campsites along the route were fully booked. We'd heard mixed reviews beforehand, particularly that it was a little rough around the edges, and upon arrival we discovered those reports were fairly accurate. The campsite itself certainly seemed to be a work in progress, but what it lacked in polish it made up for with its location. Surrounded by beautiful Highland scenery and dramatic coastline, it still provided a fantastic base for the night.
+
+![Leaving Strathy Beach](20260526_143144.jpg)
+![On the road to Bettyhill](20260526_143227.jpg)
+![Arriving at Craigdu Campsite](20260526_150544.jpg)
+![Settling onto our pitch](20260526_151334.jpg)
 
 After settling onto our pitch, Mel fancied a rest while I headed off for a wander. During my exploration, I happened to stumble across The Store Bistro and Bar, which felt too inviting to ignore. Following the age-old travelling philosophy of "when in Rome", I settled in with a couple of pints of Tennents and enjoyed watching the world go by.
 
+![A wander while Mel rested](20260526_154118.jpg)
+![The Store Bistro and Bar](20260526_154508.jpg)
+![A couple of pints of Tennents](20260526_154541.jpg)
+
 Later, Mel joined me and we took a stroll over to The Bettyhill Hotel. The hotel enjoys a magnificent position overlooking Naver Bay, with panoramic views across the coastline. Sitting in the beer garden with a pint of lager for me and a Guinness for Mel, we simply soaked up the surroundings. The scenery was breathtaking and reminded us once again why the northern coast of Scotland has become such a popular destination.
+
+![The Bettyhill Hotel](20260526_160332.jpg)
+![Overlooking Naver Bay](20260526_162608.jpg)
+![The beer garden at The Bettyhill Hotel](20260526_171921.jpg)
+![Panoramic views across the coastline](20260526_172143.jpg)
+![A pint of lager and a Guinness](20260526_172150.jpg)
+![Soaking up the surroundings](20260526_172156.jpg)
+![Breathtaking scenery at Naver Bay](20260526_173315.jpg)
+![The Bettyhill Hotel beer garden](20260526_173330.jpg)
+![Naver Bay coastline](20260526_173332.jpg)
+![Bettyhill in the afternoon sun](20260526_173334.jpg)
 
 We eventually returned to the motorhome around 7pm. The sun was still shining, although there was definitely a slight chill in the air. After another quick power nap from Mel, the evening meal was underway. Before long, the delicious smell of sausage and mash filled the van, accompanied by rich gravy and a generous helping of bread and butter. It was simple comfort food at its very best and exactly what was needed after a day spent exploring.
 
+![Back at the motorhome for the evening](20260526_180326.jpg)
+![Mel's power nap](20260526_182220.jpg)
+![Sausage and mash on the way](20260526_184020.jpg)
+![Comfort food after a day of exploring](20260526_185702.jpg)
+![Sausage and mash with gravy](20260526_185706.jpg)
+![Dinner in the van](20260526_185741.jpg)
+
 The combination of fresh sea air, good food and a full day of sightseeing eventually caught up with us. By around 9pm, both of us were sound asleep, ready to recharge for another day on the adventure.
 
+![Winding down for the evening](20260526_193405.jpg)
+
 Looking back, Day 5 perfectly captured the spirit of the NC500: dramatic cliffs at Dunnet Head, peaceful beaches at Strathy, friendly Highland pubs and some of the most remote and beautiful scenery anywhere in Britain.
+
+![Reflecting on Day 5](20260526_200530.jpg)
+
