@@ -1,3 +1,5 @@
+buildFuture = true
+
 baseURL = "https://twopassportsonelife.co.uk/"
 languageCode = "en-gb"
 title = "Two Passports, One Life"
