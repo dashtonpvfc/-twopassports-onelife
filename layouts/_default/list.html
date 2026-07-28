@@ -17,7 +17,7 @@
       <div class="post-card-body">
         <h2 class="post-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p class="post-card-date">{{ .Date.Format "2 January 2006" }}</p>
-        <p class="post-card-summary">{{ .Summary | truncate 120 }}</p>
+        <p class="post-card-summary">{{ .Summary | plainify | truncate 120 }}</p>
         <a href="{{ .Permalink }}" class="post-card-link">Read more &rarr;</a>
       </div>
     </article>
