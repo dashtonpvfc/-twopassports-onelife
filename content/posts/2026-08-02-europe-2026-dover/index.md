@@ -7,4 +7,6 @@ image: "cover.jpg"
 
 Camp site: The Coastguard pub, Dover
 
-<!-- Write the day here. Drop photos into this folder and reference them as ![Caption](filename.jpg) -->
+This is a test, I am testing for future reference.
+
+I am still testing.
