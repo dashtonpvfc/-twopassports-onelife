@@ -11,4 +11,4 @@ First day of the epic European trip and we are hanging following Harry's 21st bi
 
 A pint of IPA for me and a Pimms for Mel. For the food - Mel went for the classic fish and chips - and I opted for the Hunters chicken with fries. Mels was really good, mine was really quite rubbish. Cremated isn't the word. Filled a hole though. 
 
-We went for a quick walk along the beach and there were quite a few more "unsavouries" than the last time we were here. Sign of the times, I suppose. Tried to sleep from about 9pm but was to no avail. May have dropped off at about 3am...only for the sound of Bon Iver waking us for our 4am alarm for the ferry. Joy.
+We went for a quick walk along the beach and there were quite a few more "unsavouries" than the last time we were here. Sign of the times, I suppose. Tried to sleep from about 9pm but was to no avail. May have dropped off at about 3am...only for the sound of Bon Iver waking us for our 4am alarm for the ferry. Joy. Total miles today around 275.
