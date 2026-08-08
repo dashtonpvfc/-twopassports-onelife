@@ -1,10 +1,10 @@
 ---
-title: "Chamonix"
+title: "Vallorcine"
 date: 2026-08-07
 destination: ["Europe 2026 - France, Switzerland, Italy"]
 image: "cover.jpg"
 ---
 
-Camp site: Natural campsite and motorhome location of Passy Plaine Joux - AIRE
+Camp site: Offentlicher Parkplantz Buet
 
-<!-- Write the day here. Drop photos into this folder and reference them as ![Caption](filename.jpg) -->
+Awoke from another poor night's sleep hanging off the cliff edge, all packed up and ready to leave Annecy around 11:30am. Headed to Lidl to pick up supplies - a couple of croissants, pain au chocolat, tomatoes, bread, ham and cream cheese to sustain us through the days journey. Headed to Natural campsite and motorhome location of Passy Plaine Joux aire which is about a 2 hour drive avoiding tolls. We also stopped at a beautiful boulangerie in Flumet climbing high into the French alps. Weather was low 30's and full sun again. As we approached the road to the aire there were warning signs saying 1.9m wide max - the van is about 2.2m wide so we chanced it - we got about 200 metres up the mountain on a hairpin bend and a car came down towards us, then another, then a van, then another 3 vehicles. They couldn't all reverse up hill but there was also another 2 cars behind us. We got completely wedged. We had to shoehorn the van in a private driveway. It was too much so we gave up and headed downhill. Frantically searching for campsites and every single one was full. Finally dropped on a car park which turned out to be perfect for our simplistic needs - 5 euros for an overnight stop and nestled between mountains on all sides. There was even a gorgeous quirky hotel bar next door, we headed there for a pint / Aperol or 3 and then headed back to the van around 6:30pm. We listened to the radio, sent the drone up for some footage, drank a couple of bottles of vin blanc and vin rouge and ate some lovely fromage and jambon and tomato toastie on thick sliced rustic crusty bread and real butter...tres bien! Mel sketched the local scenery with her new pencil set (she promises to do one a day here on in) and off to bed we popped with a slight nip in the air - the thermometer read 14 degrees - this called for the sleeping bag.
