@@ -1,5 +1,5 @@
 ---
-title: "Tasch"
+title: "Randa, Zermatt, Switzerland"
 date: 2026-08-08
 destination: ["Europe 2026 - France, Switzerland, Italy"]
 image: "cover.jpg"
@@ -9,7 +9,7 @@ Camp site: Camping Attermenzen, Tasch (8-10 August)
 
 ## Day 1 - Saturday 8 August
 
-<!-- Write here -->
+Awoke after a great nights sleep (finally) on the car park, skipped breakfast as we wanted to get on. Drama ensued within an hour as we crossed the Swiss border on the route de Forclaz - and found ourselves on top of a mountain range over 5,000 ft up. This was all fun and games until we started the very steep descent with constant switchbacks and hairpin bends and we could smell a very strong burning smell - the front brakes were literally smoking and boiling hot. We pulled over onto a cliff edge and gave it an hour whilst Mel knocked up some ham and cheese baps. We very gingerly drive off and used the gears for braking at best we could which is hard in second gear at 5000RPM and massive queues behind. We finally made it to the bottom with bottoms twitching and breathed a sigh of relief. Genuinely terrifying. Headed to Lidl in Martigny for supplies, spent about 60 CHF which is roughly like for like for GBP. Scenery has been off the scale on this leg, truly spectacular. Arrived at Camping Attermenzen in Randa at around 3:15 and setup for the day. Weather about 31 degrees and full sun. Proper chilled day by beautiful but huge site surrounded by snow capped mountains and glaciers. Had a few beers and Mel made a lovely pasta dish with chicken, cream and lemon. Retired to bed about 9:30pm, read and fell asleep exhausted after another stressful day! 😃 
 
 ## Day 2 - Sunday 9 August
 
