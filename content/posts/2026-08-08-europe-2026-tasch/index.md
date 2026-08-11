@@ -17,4 +17,47 @@ Awoke to 4 day old festering sausages and scrambled eggs on baps, lovely. We the
 
 ## Day 3 - Monday 10 August
 
-<!-- Write here -->
+Woke up around 8am for the big day of walking. Had 4 chocolate weetabix to line the stomach, Mel made me a packed lunch and water and off went on a adventure. Plan was to do the "5 lakes walk". First step catch the train from Tasch which meant a 2.5km walk in 30 mins, arrived 8 mins before departure and a run to the toilet first. Made it with 2 mins spare, beautiful train journey into Zermatt - £16 return. Then I needed to head to the Zermatt to Sunnegga funicular railway that takes you up inside the mountain and then a cable car to the next highest point - Blauherd where I started the walk. Return tickets were £52. The walk was utterly amazing, a circular that was around 12km. Weather dropped to about 10 degrees at the highest point and was then pretty much mid 20's onwards. It rained for about 30 minutes. Other than that it was pretty much perfect conditions for walking. The route was packed with mostly German, French and oriental walkers - I didn't hear one English speaker. I stopped for a picnic at the climax of the walk and it was genuinely THE most amazing view I have ever seen. The Matterhorn to one side and the dramatic Rimpfischhorn and the Findel glacier below. Truly memorable and once in a lifetime stuff. 4 hours later, Exhilarated and exhausted, I caught the cable car and funicular back down to Zermatt and headed to Harry's Bar - a recommendation from Ginger Andy - it was spot on! A couple of halves of Schneider Weisse - at only £14 a pint! Headed back to Tasch in reverse & picked up a 5 litre bag of fine white wine for £16, shoved it in my backpack and walked the final 2.5km back to the camp site. Quick shower and decided to walk to the local hostel bar for a beer as they are only £5, got there and sign on door stating - closed Mondays. Unbelievable. Walked back to site, wine, beer, music, and disposable BBQ that absolutely smoked out the entire site. There was not a whisper of wind - BBQ's are also banned, but we like to rebel. Our neighbours were closing their windows and doors around us. Oh well - it was bloody lovely, 2.5 cheeseburgers with mushrooms, plastic cheese, tomatoes, salad and Levi Roots for me and 1.5 for Mel with onions 🤮. Started reading Flea's autobiography before bed and then retired around 10 ish for our final night at this site. 16 miles walked today and very achy legs.
+
+🏕️ Campsite Rating
+
+- 🚿 Facilities — 10/10
+  Immaculate, with everything you could possibly need and more.
+
+- 📍 Location — 8/10
+  Very peaceful and incredibly well positioned.
+
+- 💷 Value for money — 8/10
+  £43 a night. Considering this is one of the best locations in Europe, it's still generally cheaper than the UK rip-off shitshow.
+
+- 🚐 Pitches — 5/10
+  The only real weakness. The "park where you want" approach can mean you end up with other campers intruding on your privacy.
+
+- 🧹 Cleanliness — 9/10
+  Spotless throughout.
+
+- 🤝 Atmosphere — 8/10
+  A really enjoyable atmosphere without feeling overcrowded or chaotic.
+
+- 🛒 Convenience — 6/10
+  A bit of a slog to get to and from, so it's not the most convenient campsite for getting out and about.
+
+- 🌄 Scenery — 10/10
+  Absolutely spectacular. You simply cannot tire of waking up to snow-capped mountains and glaciers.
+
+- ❤️ Would we return? — YES
+
+⭐ Overall
+
+This is a campsite where the location and scenery are the stars of the show. Waking up every morning to snow-capped mountains and glaciers is something you could never get bored of, and the facilities are immaculate with pretty much everything you could need.
+
+The pitches are the main thing holding it back. The freedom to park where you want sounds great in theory, but it can mean sacrificing a bit of privacy depending on who arrives around you. It's also not the easiest campsite to get to or from, which is reflected in the convenience score.
+
+But at £43 a night, we'd still say it's excellent value for what you're getting. In one of the most spectacular parts of Europe, you're paying less than many UK campsites charge for far less.
+
+Our verdict: 8/10 — We'd absolutely return.
+
+
+
+
+
