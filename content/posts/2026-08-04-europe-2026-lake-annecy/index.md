@@ -1,4 +1,4 @@
----
+i---
 title: "Lake Annecy"
 date: 2026-08-04
 destination: ["Europe 2026 - France, Switzerland, Italy"]
@@ -18,3 +18,41 @@ Lie in today until at least 9am, woke with pins and needles in our legs and arms
 ## Day 3 - Thursday 6 August
 
 Awoke around 9ish after another fractured vertical sleep. Mel knocked up a rather marvellous sausage, bacon and champignon baguette smothered in BBQ sauce...mmm divine. Relaxed day today so nipped for a cold coffee on the shore and then headed to the local plage with books in hand - still reading Phil Collins autobiography. Read about 100 pages, swam a lot, relaxed a lot, drank a local beer and a tandoori chicken sandwich and some crisps. A wonderfully relaxing day. Phone has ran out of data due to Facebook background usage, whatever that means - used 15GB in 2 days so exceeded my fair usage policy in the EU. Resets in 28 days. Great. Going have to sort some kind of Esim but nowhere has wifi to even order it. Then I had itchy feet around 4pm so went for a shower and a limoncello at the van and headed to the local bar - Saint Rock - a very cool venue, literally - first place we had been with actual air conditioning - bliss! I had 3 or 4 pints of Kronenbourg Blanc and Mel a gin and tonic or 4. We had set sights on the pizza place next door - you could bring them into the pub...winner! Went to order, literally just ran out of dough. WTF. So we shared a dry nachos. Around 21:00 went for a dirty kebab next door, instant regret. Bed at 11pm for another shocking nights sleep.
+
+🏕️ Campsite Rating
+
+- 🚿 Facilities — 6/10
+  Very sparse and not the cleanest 
+
+- 📍 Location — 9/10
+  Amazing position, right on the beach
+
+- 💷 Value for money — 8/10
+  £30 a night. excellent value
+
+- 🚐 Pitches — 4/10
+  Pitches are exceptionally tight and not at all level. The main downside here
+
+- 🧹 Cleanliness — 7/10
+  Acceptable
+
+- 🤝 Atmosphere — 8/10
+  A family friendly atmosphere 
+
+- 🛒 Convenience — 8/10
+  Easy to get to
+
+- 🌄 Scenery — 8/10
+  Beautiful views from every angle of mountains and lake
+
+- ❤️ Would we return? — No.
+
+⭐ Overall
+
+Lovely location right on the beach of the lake BUT - 
+
+The pitches are the main reason we wouldnt stay here again. we simply could not enjoy any privacy but the main reason was that we couldn't get it anywhere near level so sleep was very poor.
+
+But at £30 a night, we'd still say it's excellent value for what you're getting. In one of the most spectacular parts of Europe, you're paying less than many UK campsites charge for far less.
+
+Our verdict: 7/10 - Great if you like sleeping upside down.
