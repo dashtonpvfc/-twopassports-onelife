@@ -16,7 +16,7 @@ Change of plan from heading to Lake Garda next, the distances and heat are destr
 
 ## Day 2 - Thursday 20 August
 
-<!-- Write here -->
+Gave Mel a lie in after a pretty shite nights sleep again and made myself a fantastic omelette and ate it overlooking the Rhein. Left Mel at the site and went for a walk into Waldshut along the river. The Weather is significantly cooler today - around 25 degrees and much needed. Stumbled upon a lovely cafe / bar - Stadtmurli Pils Pub, where I devoured the local beer made literally up the road - Rothaus Pils. I slowly sipped 3 of them whilst people watching and catching up on phone calls to the boys. Was there for a couple of hours and went to pay - cash only - I had no cash and no debit card, promised I would return to pay the 11 euro bar tab later. Wandered to the next bar for a small beer and grabbed a salted caramel ice cream to walk along the canal with. Met sleepy Mel at the crazy golf place mid way back for a couple of beers and some heated debate about world affairs. Walked to Lidl for some supplies as it was getting late and still hadn't ate when I spotted a Burger King! Not had a Burger King for about 20 years so thought I would try one. Had a double cheeseburger and bacon meal thing with fries smothered in cheese and jalapeños with extra chilli and a diet coke - it was actually really nice and filled a hole - cost was around £14. Wandered back, had an Erdinger Dunkel by the van before going to the big duvet.
 
 ## Day 3 - Friday 21 August
 
